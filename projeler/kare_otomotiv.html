@@ -10,14 +10,17 @@
     <link rel="stylesheet" href="../css/bootstrap.min.css" />
     <link rel="stylesheet" href="../css/style.css" />
     <link rel="stylesheet" href="../css/slider2.css" />
-    <link rel="stylesheet" href="../css/slick.css" />
-
+    <link rel="stylesheet" href="../css/slick.css" />  
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Kalnia:wght@100..700&family=Urbanist:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
 
     <style>
         /* --- PROJE DETAY SAYFASI ÖZEL CSS --- */
+        
+        body {
+            transition: filter 0.3s ease;
+        }
         
         .project-header-line {
             border-top: 5px solid #888; /* Başlık altındaki kalın gri çizgi */
@@ -26,9 +29,9 @@
         }
 
         .project-title-number {
-            font-family: 'Urbanist', sans-serif;
-            font-weight: 300;
-            color: #555;
+            font-family: 'Kalnia', serif;
+            font-weight: 400;
+            color: #000;
             font-size: 2rem;
             margin-right: 10px;
         }
@@ -203,7 +206,7 @@
                     <p class="meta-value" data-i18n="pages.projectDetails.kareOtomotiv.type.value">TICARI ALAN TASARIMI</p>
 
                     <span class="meta-label" data-i18n="pages.projectDetails.kareOtomotiv.services.label">HİZMETLER /</span>
-                    <p class="meta-value" data-i18n="pages.projectDetails.kareOtomotiv.services.value">Modüler Bölme Duvar İmalat<br>Zemin Modüler Halı Döşeme İmalat</p>
+                    <p class="meta-value" data-i18n="pages.projectDetails.kareOtomotiv.services.value">Modüler Bölme Duvar İmalat<br>Zemin Modüler Halı Döşeme/İmalat</p>
                 </div>
 
                 <div class="col-md-9">
@@ -221,29 +224,45 @@ akustik dinlenme odası tarafımızca tasarlanmıştır
 
             <div class="row project-gallery">
                 <div>
-                    <img src="../images/kareoto/kare_3.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    <a href="../images/kareoto/kare_3.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_3.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    </a>
                 </div>
 
                 <div>
-                    <img src="../images/kareoto/kare_4.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    <a href="../images/kareoto/kare_4.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_4.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    </a>
                 </div>
                 <div class="col-tall">
-                    <img src="../images/kareoto/img_2826.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    <a href="../images/kareoto/img_2826.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/img_2826.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    </a>
                 </div>
                 <div>
-                    <img src="../images/kareoto/kare_5.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    <a href="../images/kareoto/kare_5.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_5.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    </a>
                 </div>
                 <div>
-                    <img src="../images/kareoto/kare_6.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    <a href="../images/kareoto/kare_6.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_6.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    </a>
                 </div>
                 <div>
-                    <img src="../images/kareoto/kare_7.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    <a href="../images/kareoto/kare_7.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_7.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    </a>
                 </div>
                 <div>
-                    <img src="../images/kareoto/kare_8.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    <a href="../images/kareoto/kare_8.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_8.jpg" alt="Kare Otomotiv" class="img-fluid">
+                    </a>
                 </div>
                 <div>
-                    <img src="../images/kareoto/kare_9.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    <a href="../images/kareoto/kare_9.jpg" data-gallery="kare" class="gallery-img-link">
+                        <img src="../images/kareoto/kare_9.jpg" alt="Kare Otomotiv Ofis" class="img-fluid">
+                    </a>
                 </div>
             </div>
 
@@ -254,11 +273,18 @@ akustik dinlenme odası tarafımızca tasarlanmıştır
         <div class="footer-main" style="position: relative;">
             <div class="row">
                 <div class="col-1"><img class="footer-logo" src="../images/svg/logo-ani.svg" alt=""></div>
-                <div class="col-11">
+                <div class="col-11 d-flex align-items-center justify-content-between">
                      <p style="color:white; margin-top:20px;">
                          <span data-i18n="pages.projectDetails.kareOtomotiv.footerCopyright">© 2024 Sobutay. Tüm hakları saklıdır.</span>
-                         <span style="margin-left: 32px;"><a href="https://www.linkedin.com/in/lacintemel/" target="_blank" style="color: inherit; text-decoration: none;">CREATED BY LT</a></span>
                      </p>
+                     <div>
+                         <div class="footer-social">
+                             <a href="https://www.instagram.com/sobutayticaret/" target="_blank"><img src="../images/svg/insta.svg" alt=""></a>
+                             <a href="https://www.linkedin.com/in/ugur-sobutay-417026115/" target="_blank"><img src="../images/svg/linkedin.svg" alt=""></a>
+                             <a href="https://wa.me/+905325889088"><img src="../images/svg/whatsapp-w.svg" alt=""></a>
+                         </div>
+                         <a href="https://www.linkedin.com/in/lacintemel/" target="_blank" class="created-by-lt">CREATED BY LT</a>
+                     </div>
                 </div>
             </div>
         </div>
@@ -268,6 +294,8 @@ akustik dinlenme odası tarafımızca tasarlanmıştır
     <script src="../js/bootstrap.min.js"></script>
     <script src="../js/language-manager.js"></script>
     <script src="../js/main.js"></script>
+    
+
 
 </body>
 </html>

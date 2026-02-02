@@ -180,3 +180,100 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 });
+
+/* =========================================
+   MODAL GALERİ JS KODU
+   ========================================= */
+(function() {
+    // Modal Overlay ve Content HTML'ini ekle
+    function initializeModal() {
+        if (document.getElementById('imageModalOverlay')) return; // Zaten ekli ise çıkış yap
+        
+        const modalHTML = `
+            <div id="imageModalOverlay" class="image-modal-overlay">
+                <button class="modal-close-btn">&times;</button>
+                <button class="modal-nav-btn prev">&lt;</button>
+                <div class="image-modal-content">
+                    <img id="modalImage" class="image-modal-img" src="" alt="">
+                </div>
+                <button class="modal-nav-btn next">&gt;</button>
+            </div>
+        `;
+        
+        document.body.insertAdjacentHTML('beforeend', modalHTML);
+    }
+    
+    // Modal'ı aç
+    function openModal(imageUrl, allImages, currentIndex) {
+        initializeModal();
+        
+        const modal = document.getElementById('imageModalOverlay');
+        const modalImg = document.getElementById('modalImage');
+        
+        modalImg.src = imageUrl;
+        modal.classList.add('active');
+        document.body.classList.add('modal-open');
+        
+        // Önceki ve sonraki butonları ayarla
+        const prevBtn = modal.querySelector('.modal-nav-btn.prev');
+        const nextBtn = modal.querySelector('.modal-nav-btn.next');
+        
+        prevBtn.onclick = function(e) {
+            e.stopPropagation();
+            let newIndex = (currentIndex - 1 + allImages.length) % allImages.length;
+            openModal(allImages[newIndex], allImages, newIndex);
+        };
+        
+        nextBtn.onclick = function(e) {
+            e.stopPropagation();
+            let newIndex = (currentIndex + 1) % allImages.length;
+            openModal(allImages[newIndex], allImages, newIndex);
+        };
+    }
+    
+    // Modal'ı kapat
+    function closeModal() {
+        const modal = document.getElementById('imageModalOverlay');
+        if (modal) {
+            modal.classList.remove('active');
+            document.body.classList.remove('modal-open');
+        }
+    }
+    
+    // Event listenerleri ekle
+    document.addEventListener('DOMContentLoaded', function() {
+        initializeModal();
+        
+        // Kapat butonuna tıklama
+        document.addEventListener('click', function(e) {
+            if (e.target.classList.contains('modal-close-btn')) {
+                closeModal();
+            }
+            if (e.target.id === 'imageModalOverlay') {
+                closeModal();
+            }
+        });
+        
+        // ESC tuşu ile kapat
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+        
+        // Galeri resimleri
+        document.addEventListener('click', function(e) {
+            const link = e.target.closest('a[data-gallery]');
+            if (link) {
+                e.preventDefault();
+                
+                const gallery = link.getAttribute('data-gallery');
+                const allLinks = document.querySelectorAll(`a[data-gallery="${gallery}"]`);
+                const images = Array.from(allLinks).map(l => l.href);
+                const currentIndex = Array.from(allLinks).indexOf(link);
+                
+                openModal(link.href, images, currentIndex);
+            }
+        });
+    });
+})();

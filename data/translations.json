@@ -1,8 +1,8 @@
 {
   "tr": {
-    "siteName": "Sobutay ® | 228 4 509",
+    "siteName": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88",
     "common": {
-      "phone": "228 4 509",
+      "phone": "+90 532 588 90 88",
       "email": "global@ugursobutay.com",
       "whatsapp": "+905325889088",
       "instagram": "https://www.instagram.com/sobutayticaret/",
@@ -20,8 +20,8 @@
         "title": "Anasayfa",
         "url": "index.html",
         "meta": {
-          "title": "Sobutay ® | 228 4 509 | Anasayfa",
-          "description": "Sizi hayranlık uyandıran projelerle buluşturuyoruz."
+          "title": "Sobutay Ticaret | Projeler | Bayiliklerimiz | İnşaat Çözümleri",
+          "description": "<strong>Sobutay Ticaret</strong>, yenilikçi inşaat projeleri, bayilik fırsatları ve çözüm ortaklarımız ile hizmet veren köklü bir firmadır. Projelerimizi, hakkımızda, çözüm ortaklarımız ve iletişim kanallarımız hakkında bilgi alın."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -85,7 +85,7 @@
           }
         },
         "contactBar": {
-          "phone": "228 4 509",
+          "phone": "+90 532 588 90 88",
           "contactForm": "İletişim Formu",
           "onlineCall": "Online Görüşme",
           "whatsapp": "Whatsapp"
@@ -93,7 +93,7 @@
         "banner": {
           "dreamsTrust": "Hayalleriniz",
           "trustUs": "bize emanet.",
-          "description": "Sobutay, yenilikçi inşaat ve mimarlık projeleriyle tanınan köklü bir firmadır. Yılların deneyimi ve uzman ekibiyle birlikte, müşterilerine üstün kalite, yaratıcı tasarım ve mükemmeliyetçilik anlayışıyla hizmet vermektedir. Sobutay olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Mimari tasarım, çelik imalat, asma tavan sistemleri ve iç dekorasyon alanlarında yetkinlik göstererek, projelerimizi en yüksek standartlarda tamamlıyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız.",
+          "description": "<strong>Sobutay Ticaret</strong>, yenilikçi inşaat ve mimarlık projeleriyle tanınan köklü bir firmadır. Yılların deneyimi ve uzman ekibiyle birlikte, müşterilerine üstün kalite, yaratıcı tasarım ve mükemmeliyetçilik anlayışıyla hizmet vermektedir. <strong>Sobutay Ticaret</strong> olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Mimari tasarım, çelik imalat, asma tavan sistemleri ve iç dekorasyon alanlarında yetkinlik göstererek, projelerimizi en yüksek standartlarda tamamlıyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız.",
           "moreLink": "Daha Fazlası"
         },
         "slider": {
@@ -117,10 +117,10 @@
           }
         },
         "projectsSection": {
-          "label": "Sobutay Projelerimizi Keşfedin",
+          "label": "<strong>Sobutay Ticaret</strong> Projelerimizi Keşfedin",
           "title1": "Tamamlanmış ve",
           "title2": "devam eden projeler!",
-          "description": "<span class=\"bold\">Sobutay'nun</span> modern ve yenilikçi proje koleksiyonu sizi hayranlık uyandıracak. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında en yüksek kalite standartlarını sunuyoruz.",
+          "description": "<strong>Sobutay Ticaret'in</strong> modern ve yenilikçi proje koleksiyonu sizi hayranlık uyandıracak. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında en yüksek kalite standartlarını sunuyoruz.",
           "moreLink": "Daha Fazlası"
         }
       },
@@ -128,8 +128,8 @@
         "title": "Hakkımızda",
         "url": "hakkimizda.html",
         "meta": {
-          "title": "Hakkımızda | Sobutay",
-          "description": "Sobutay hakkında bilgi edinin. Uluslararası standartlar, sürdürülebilir uygulamalar."
+          "title": "Hakkımızda | Sobutay Ticaret",
+          "description": "<strong>Sobutay Ticaret</strong> hakkında bilgi edinin. Uluslararası standartlar, sürdürülebilir uygulamalar."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -141,7 +141,7 @@
         "banner": {
           "heading1": "Uluslararası standartlar,",
           "heading2": "Sürdürülebilir uygulamalar",
-          "description": "Sobutay olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız."
+          "description": "<strong>Sobutay Ticaret</strong> olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız."
         },
         "services": {
           "architecturalWonders": {
@@ -170,16 +170,16 @@
         "founder": {
           "title": "Kurucumuz",
           "name": "Uğur Sobutay",
-          "quote": "Sobutay, yenilikçilik ve mükemmeliyet anlayışıyla her projeyi gerekli noktalarıyla ele alıyoruz. İnşaat, mimarlık ve iç dekorasyon alanlarında sunduğumuz hizmetlerle müşterilerimizin hayallerini gerçeğe dönüştürüyoruz. Kalite, estetik ve işlevsellik bakımından en yüksek standartları sağlayan projeler yapıyoruz.",
+          "quote": "<strong> Sobutay Ticaret </strong>, yenilikçilik ve mükemmeliyet anlayışıyla her projeyi gerekli noktalarıyla ele alıyoruz. İnşaat, mimarlık ve iç dekorasyon alanlarında sunduğumuz hizmetlerle müşterilerimizin hayallerini gerçeğe dönüştürüyoruz. Kalite, estetik ve işlevsellik bakımından en yüksek standartları sağlayan projeler yapıyoruz.",
           "moreLink": "Daha Fazlası →"
         },
         "experience": {
           "heading": "Deneyim ve Uzmanlık!",
-          "description": "Yıllar boyunca inşaat ve mimarlık sektöründe birikimini yapan Sobutay, her projesinde yenilikçi çözümler sunar. Özgün tasarımlar ve mükemmel uygulamalarıyla, sektörde kendisine güçlü bir konum kazanmıştır."
+          "description": "Yıllar boyunca inşaat ve mimarlık sektöründe birikimini yapan <strong>Sobutay Ticaret</strong>, her projesinde yenilikçi çözümler sunar. Özgün tasarımlar ve mükemmel uygulamalarıyla, sektörde kendisine güçlü bir konum kazanmıştır."
         },
         "footer": {
           "heading": "Kendine özgü, huzur dolu.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "K.V.K.K",
           "terms": "Terms & Conditions"
         }
@@ -188,8 +188,8 @@
         "title": "Projeler",
         "url": "projeler.html",
         "meta": {
-          "title": "Projelerimiz | Sobutay",
-          "description": "Sobutay'ın tüm projelerini inceleyiniz. Mimarlık, iç dekorasyon, çelik imalat."
+          "title": "Projelerimiz | Sobutay Ticaret",
+          "description": "<strong>Sobutay Ticaret</strong>'in tüm projelerini inceleyiniz. Mimarlık, iç dekorasyon, çelik imalat."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -200,7 +200,7 @@
         },
         "banner": {
           "heading": "Kendine özgü, huzur dolu.",
-          "description": "Sobutay olarak, her biri benzersiz bir hikayeye ve özel bir vizyona sahip olan projelerimizi başarıyla tamamlamaktan gurur duyuyoruz. Müşterilerimize ve topluma değer katan, estetik ve işlevsellik açısından üstün niteliklere sahip projeler geliştirmeye devam ediyoruz."
+          "description": "<strong>Sobutay Ticaret</strong> olarak, her biri benzersiz bir hikayeye ve özel bir vizyona sahip olan projelerimizi başarıyla tamamlamaktan gurur duyuyoruz. Müşterilerimize ve topluma değer katan, estetik ve işlevsellik açısından üstün niteliklere sahip projeler geliştirmeye devam ediyoruz."
         },
         "filters": {
           "all": "Tüm Projeler",
@@ -263,7 +263,7 @@
         },
         "footer": {
           "heading": "Kendine özgü, huzur dolu.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "K.V.K.K",
           "terms": "Terms & Conditions"
         }
@@ -271,7 +271,7 @@
       "projectDetails": {
         "libertyHotel": {
           "meta": {
-            "title": "Liberty Hotel Kuşadası | Sobutay"
+            "title": "Liberty Hotel Kuşadası | Sobutay Ticaret"
           },
           "number": "01.",
           "title": "LIBERTY HOTEL KUŞADASI",
@@ -297,11 +297,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "ÖZYER GRUP HOTEL inden biri olan LİBERTY HOTEL iç mekan tasarımı ile değişime 2024 yılında başlamıştır. Ana restoran ve çeşitli ülke lezzetlerini barındıran restoranların değişimi ile göz doldurup, loby mahalindeki çeşitli peyzaj dekorasyonlarının ve mahallerinin yapıldığı, projeleri peyzaj mimarı TÜLAY TOSUN imzalı imalatların çalışmaları ile muhteşem bir değişim tarafımızca yapmış olup yine 2024 Ekim ayında sahil kısmına İnşaat Mühendisi ENGİN ERDOĞAN tarafından çelik statik projesi çizilen sahne imalatı eklemesi tarafımızca yapılmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "xoCape": {
           "meta": {
-            "title": "XO Cape Antalya Hotel | Sobutay"
+            "title": "XO Cape Antalya Hotel | Sobutay Ticaret"
           },
           "number": "02.",
           "title": "XO CAPE ANTALYA HOTEL",
@@ -319,11 +319,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "ÖZYER GRUP HOTEL inden biri olan XO CARPE ARNA ÖZYER GRUP un en yeni hotellerinden biri olup 2025 yılında faaliyete girmiştir. Hotel giriş saçağının komple ağır çelikten imal edilip farklı biri tasarıma sahip olan Mimar YEŞİM KOZANLI imzalı olup İnşaat Mühendisi ENGİN ERDOĞAN tarafından ortalama 65 Ton çelik statik projesi çizilen bu eserin tarafımızca yapılması bizlere ayrı gurur veriyor.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "hesapciogluOpel": {
           "meta": {
-            "title": "Hesapçıoğlu Opel Showroom | Sobutay"
+            "title": "Hesapçıoğlu Opel Showroom | Sobutay Ticaret"
           },
           "number": "03.",
           "title": "HESAPÇIOĞLU OPEL SHOWROOM",
@@ -341,11 +341,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "HESAPÇIOĞLU A.Ş yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi tarafımızca dizayn edilip anahtar teslim olarak kullanıma sunulmuştur. 2023 yılında yenilemesi biten projemizde açık ofis sistemine uygun yönetim odaları bulunmaktadır. Ofis tasarımında asıl amacın yöneticilerin ve çalışanların ergonomik ve kullanışlı bir alana sahip olmalarını hedeflerken yoğun ses traffiğine uygun olan akustik çözümlerle de ofis tasarımımızı planlamış bulunmaktayız. Ofis projemizde 49dB e kadar ses geçirmezliği sağlayan özel modüler bölme duvarlar ile tasarlanmış olup karo halı ve akustik asma tavan sistemleri ile akustik ve konforlu bir ortam elde edilmiştir.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "altintarTarim": {
           "meta": {
-            "title": "Altıntar Tarım Yönetim Ofisi | Sobutay"
+            "title": "Altıntar Tarım Yönetim Ofisi | Sobutay Ticaret"
           },
           "number": "04.",
           "title": "ALTINTAR TARIM YÖNETIM OFİSİ",
@@ -363,11 +363,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "ALTINTAR TARIM A.Ş yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi KST MİMARLIK tasarımına sahip olduğu projede imalatları tarafımızca uygulanıp anahtar teslim olarak kullanıma sunulmuştur. 2022 yılında faaliyete geçen ALTINTAR TARIM yönetim ofisinde birbirinden farklı ofis tipleri ve kullanıma uygun toplantı salonları imal ettik. Kullanıma sunulan bu alanlarda Ahşap Baffle Asma Tavan, Alüminyum Baffle Asma Tavan, Karo Halı, Mesh Tipi Asma Tavan, ve Modüler Bölme Duvar ürünlerimizi kullandık. Her departmanın kendine has renkleri ve tasarımlarını hedefleyen bu projemizde Alüminyum ve Ahşap kullanımları daha ön planda kullandık.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "gultepeSport": {
           "meta": {
-            "title": "Gültepe Spor Kompleksi | Sobutay"
+            "title": "Gültepe Spor Kompleksi | Sobutay Ticaret"
           },
           "number": "05.",
           "title": "GÜLTEPE SPOR KOMPLEKSİ",
@@ -385,11 +385,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "KONAK BELEDİYESİ tarafından inşa edilen GÜLTEPE SPOR KOMPLEKSİ projesinde kullanıma uygun alanlar inşa ettik. Projemizin çok amaçlı spor kompleksi tasarımında elde edilen Suni Çim Halı Saha, Voleybol, Basketbol için uluslararası düzeyde turnuvalara ev sahipliği yapılacak şekilde tasarlanması ve uygulanması tarafımızca teslim edilmiştir. 2021 yılında faaliyete geçen çok amaçlı spor kompleksinde uygulanan bu ürünlerin gerçek kullanıma uygun yapılıp teslimini gerçekleştirmiş bulunmaktayız.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "camlicaYapi": {
           "meta": {
-            "title": "Çamlıca Yapı Market Ofisi | Sobutay"
+            "title": "Çamlıca Yapı Market Ofisi | Sobutay Ticaret"
           },
           "number": "06.",
           "title": "ÇAMLICA YAPI MARKET OFİSİ",
@@ -407,11 +407,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "ÇAMLICA YAPI MARKET yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi DNA MİMARLIK tarafında tasarlanan yönetim ofis projesinde 1180 m2 Modüler Bölme Duvar ve 200 m2 Karo Halı imalatı yapılmıştır. 2021 yılında faaliyete geçen Çamlıca Yapı Market yönetim ofisinde 2 adet toplantı salonu ve 1 adet tamamen akustik dinlenme odası tarafımızca tasarlanmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "kareOtomotiv": {
           "meta": {
-            "title": "Kare Otomotiv VW Ofisi | Sobutay"
+            "title": "Kare Otomotiv VW Ofisi | Sobutay Ticaret"
           },
           "number": "07.",
           "title": "KARE OTOMOTİV VW OFİSİ",
@@ -429,11 +429,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "KARE OTOMOTV yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi DNA MİMARLIK tarafında tasarlanan yönetim ofis projesinde 1080 m2 Modüler Bölme Duvar ve 1020 m2 Karo Halı imalatı yapılmıştır. 2021 yılında faaliyete geçen yönetim ofisinde 2 adet toplantı salonu ve 1 adet tamamen akustik dinlenme odası tarafımızca tasarlanmıştır",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "musliksShowroom": {
           "meta": {
-            "title": "Musliks Showroom Binası | Sobutay"
+            "title": "Musliks Showroom Binası | Sobutay Ticaret"
           },
           "number": "08.",
           "title": "MUSLIKS SHOWROOM BINASI",
@@ -451,11 +451,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "MULTİKS yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi MİMAR ORÇUN ÇELİK bey tarafında tasarlanan yönetim ofis projesinde 4210 m2 Baffle Asma Tavan imalatı yapılmıştır. 2023 yılında faaliyete geçen Multiks yönetim ofisinde 4 adet toplantı salonu ve 1 adet 4400m2 showroom tarafımızca tasarlanmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "aosbKres": {
           "meta": {
-            "title": "Antalya Organize Sanayi Kreş | Sobutay"
+            "title": "Antalya Organize Sanayi Kreş | Sobutay Ticaret"
           },
           "number": "09.",
           "title": "ANTALYA ORGANİZE SANAYİ KREŞ",
@@ -473,11 +473,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "ANTALYA ORGANİZE SANAYİ BÖLGESİNDE 2024 yılında yapımı başlanan kreş projesinde İnşaat Mühendisi Engin ERDOĞAN tarafından statik projesi çizilen ve projenin danışmanlığını yürüttüğü bu projede aynı zamanda AUTODESK REVİT programında çizimleri biten projenin 2025 yılı itibari ile projesi bitmiş olup AOSB tarafından kullanıma açılmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "otomolOfis": {
           "meta": {
-            "title": "Otomol Ofis Projesi | Sobutay"
+            "title": "Otomol Ofis Projesi | Sobutay Ticaret"
           },
           "number": "10.",
           "title": "OTOMOL OFİS PROJESİ",
@@ -495,11 +495,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "BAYKAN OTOMOBİL yönetim ofis projesi iç dekorasyon projesi 2017 tarihin de başlamış olduğumuz ve tasarımı bizlere ait olan bir projedir. Yönetim ofis projemizde çeşitli Asma Tavan sistemleri kullanışmış olup Green Building System Sertifikasına sahiptir. Projemizdeki kullanılan asma tavan çeşitlerinde geri dönüşümden elde edilmiş Trapez Sistem ve Petek Asma Tavan Sistemi kullanılmıştır. Ayrıca ofis zeminlerimizde 1.200 m2 Doğal ahşap lamine parke ve 2.500m2 nefes alabilen karo halı ile zeminlerimiz kaplanmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "sunHotel": {
           "meta": {
-            "title": "Sun Hotel Alanya | Sobutay"
+            "title": "Sun Hotel Alanya | Sobutay Ticaret"
           },
           "number": "11.",
           "title": "SUN HOTEL ALANYA",
@@ -517,11 +517,11 @@
           },
           "descriptionTitle": "TANIM",
           "description": "GÜÇLÜ TURİZM yönetim ofis projesi yenilemesinde iç dekorasyon yenileme projesi MİMAR YEŞİM KOZANLI tarafında tasarlanan otel genel alan projesinde 2810 m2 Baffle Asma Tavan ve 5200 m2 Petek Asman Tavan imalatı yapılmıştır. 2020 yılında faaliyete geçen GÜÇLÜ TURİZM'e ait Sun Hotel genel mekanlarda yenileme projemiz 60 gün gibi kısa bir sürede teslim edilmiştir",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         },
         "jwMaltepe": {
           "meta": {
-            "title": "JW Maltepe Konferans Salonu | Sobutay"
+            "title": "JW Maltepe Konferans Salonu | Sobutay Ticaret"
           },
           "number": "12.",
           "title": "JW MALTEPE KONFERANS SALONU",
@@ -539,15 +539,15 @@
           },
           "descriptionTitle": "TANIM",
           "description": "JW yönetim ofis projesi anahtar teslimi projemizde, mimari proje JW YÖNETİM KURULU tarafından gelmiş olup imalat kısmında birçok akustik ve yangın dayanımı çok yüksek malzemeler ile imalatımızı tamamlamış bulunmaktayız. Konferans salonu projemizde 1520 m2 AMF THERMATE DB ACUSTİC, 1200 m2 otomatik jaluzili modüler bölme duvar 900 m2 Tarkett Karo Halı, Yangına dayanımlı akustik kapılar ve 3750 m2 Knauf Diamant serisi ile duvarlar donatılmıştır. 2023 yılında faaliyete geçen JW konferans salonu projemiz 3 ay kısa bir süre de teslim edilip kullanıma açılmıştır.",
-          "footerCopyright": "© 2024 Sobutay. Tüm hakları saklıdır."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Tüm hakları saklıdır."
         }
       },
       "dealers": {
         "title": "Bayiliklerimiz",
         "url": "bayiliklerimiz.html",
         "meta": {
-          "title": "Bayiliklerimiz | Sobutay",
-          "description": "Sobutay bayilerini tanıyın."
+          "title": "Bayiliklerimiz | Sobutay Ticaret",
+          "description": "<strong>Sobutay Ticaret</strong> bayilerini tanıyın."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -558,7 +558,7 @@
         },
         "hero": {
           "heading": "Bayiliklerimiz",
-          "description": "Sobutay ailesi olarak, ülke genelinde ve uluslararası pazarlarda güçlü bir bayilik ağına sahip bulunmaktayız. Değerli iş ortaklarımız ve bayilerimizle birlikte, yüksek kaliteli ürün ve hizmetleri müşterilerimize ulaştırmakta kararlıyız."
+          "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülke genelinde ve uluslararası pazarlarda güçlü bir bayilik ağına sahip bulunmaktayız. Değerli iş ortaklarımız ve bayilerimizle birlikte, yüksek kaliteli ürün ve hizmetleri müşterilerimize ulaştırmakta kararlıyız."
         },
         "cards": {
           "bostik": "Yapı malzemeleri sektöründe lider konumdaki güvenilir ortağımız.",
@@ -569,15 +569,15 @@
           "dendro": "Ahşap ve dekoratif ürünlerde uzmanlaşmış güvenilir tedarikçi.",
           "splash": "Banyo ve döşeme çözümlerinde yüksek kaliteli ürünler sunmaktadır.",
           "verox": "Döşeme malzemeleri alanında yenilikçi ve kaliteli ürünler üretir.",
-          "trio": "Kaliteli ürün ve hizmetlerinin sağlayıcısı olarak Sobutay ailesi içinde yer almaktadır."
+          "trio": "Kaliteli ürün ve hizmetlerinin sağlayıcısı olarak <strong>Sobutay Ticaret</strong> ailesi içinde yer almaktadır."
         },
         "banner": {
           "heading": "Değerli Bayiliklerimiz",
-          "description": "Sobutay ailesi olarak, ülke genelinde ve uluslararası pazarlarda güçlü bir bayilik ağına sahip bulunmaktayız. Değerli iş ortaklarımız ve bayilerimizle birlikte çalışmakta onurlu bulunuyoruz."
+          "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülke genelinde ve uluslararası pazarlarda güçlü bir bayilik ağına sahip bulunmaktayız. Değerli iş ortaklarımız ve bayilerimizle birlikte çalışmakta onurlu bulunuyoruz."
         },
         "footer": {
           "heading1": "Kendine özgü, <br> huzur dolu.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "K.V.K.K",
           "terms": "Terms & Conditions"
         }
@@ -586,8 +586,8 @@
         "title": "Çözüm Ortaklarımız",
         "url": "cozum_ortaklari.html",
         "meta": {
-          "title": "Çözüm Ortaklarımız | Sobutay",
-          "description": "Sobutay çözüm ortaklarını tanıyın."
+          "title": "Çözüm Ortaklarımız | Sobutay Ticaret",
+          "description": "<strong>Sobutay Ticaret</strong> çözüm ortaklarını tanıyın."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -598,15 +598,15 @@
         },
         "banner": {
           "heading": "Çözüm Ortaklarımız",
-          "description": "Sobutay ailesi olarak, ülkemizin önde gelen mimarları ve iş ortaklarıyla birlikte çalışmaktan gurur duyuyoruz. Kaliteli projelerin başında, deneyimli ve vizyoner isimler bulunmaktadır."
+          "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülkemizin önde gelen mimarları ve iş ortaklarıyla birlikte çalışmaktan gurur duyuyoruz. Kaliteli projelerin başında, deneyimli ve vizyoner isimler bulunmaktadır."
         }
       },
       "contact": {
         "title": "İletişim",
         "url": "iletisim.html",
         "meta": {
-          "title": "İletişim | Sobutay",
-          "description": "Sobutay ile iletişime geçin."
+          "title": "İletişim | Sobutay Ticaret",
+          "description": "<strong>Sobutay Ticaret</strong> ile iletişime geçin."
         },
         "nav": {
           "about": "Hakkımızda",
@@ -617,7 +617,7 @@
         },
         "hero": {
           "heading": "Bizimle <br> iletişime geçin.",
-          "description": "Merhaba! Sobutay olarak, müşteri memnuniyetini ve etkili iletişimi önemsiyoruz. İhtiyaçlarınızı dinlemek ve size en iyi hizmeti sunmak için buradayız. İster bir sorunuz olsun, ister işbirliği teklifleriniz ya da geri bildirimleriniz olsun, bizimle iletişime geçmekten çekinmeyin."
+          "description": "Merhaba! <strong>Sobutay Ticaret</strong> olarak, müşteri memnuniyetini ve etkili iletişimi önemsiyoruz. İhtiyaçlarınızı dinlemek ve size en iyi hizmeti sunmak için buradayız. İster bir sorunuz olsun, ister işbirliği teklifleriniz ya da geri bildirimleriniz olsun, bizimle iletişime geçmekten çekinmeyin."
         },
         "contactBar": {
           "form": "İletişim Formu",
@@ -633,7 +633,7 @@
         },
         "footer": {
           "heading1": "Kendine özgü, <br> huzur dolu.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "K.V.K.K",
           "terms": "Terms & Conditions"
         }
@@ -641,9 +641,9 @@
     }
   },
   "en": {
-    "siteName": "Sobutay ® | 228 4 509",
+    "siteName": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88",
     "common": {
-      "phone": "228 4 509",
+      "phone": "+90 532 588 90 88",
       "email": "info@bySobutay.com",
       "whatsapp": "+905325889088",
       "instagram": "https://www.instagram.com/sobutayticaret/",
@@ -661,7 +661,7 @@
         "title": "Home",
         "url": "en/index.html",
         "meta": {
-          "title": "Sobutay ® | 228 4 509 | Home",
+          "title": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88 | Home",
           "description": "Introducing you to breathtaking projects."
         },
         "nav": {
@@ -726,7 +726,7 @@
           }
         },
         "contactBar": {
-          "phone": "228 4 509",
+          "phone": "+90 532 588 90 88",
           "contactForm": "Contact Form",
           "onlineCall": "Online Call",
           "whatsapp": "Whatsapp"
@@ -734,7 +734,7 @@
         "banner": {
           "dreamsTrust": "Your dreams",
           "trustUs": "trusted to us.",
-          "description": "Sobutay is a well-established company known for its innovative construction and architecture projects. With years of experience and an expert team, it serves its customers with superior quality, creative design and a perfectionist approach. As Sobutay, we realize projects that add richness to life with our expertise in real estate. We complete our projects at the highest standards by demonstrating competence in architectural design, steel manufacturing, suspended ceiling systems and interior decoration. With the power of financial resources we have acquired from our international work, we bring you together with projects that inspire admiration. With our environmentally friendly approach and sustainable designs, we are ready to raise your living standards even further.",
+          "description": "<strong>Sobutay Ticaret</strong> is a well-established company known for its innovative construction and architecture projects. With years of experience and an expert team, it serves its customers with superior quality, creative design and a perfectionist approach. As <strong>Sobutay Ticaret</strong>, we realize projects that add richness to life with our expertise in real estate. We complete our projects at the highest standards by demonstrating competence in architectural design, steel manufacturing, suspended ceiling systems and interior decoration. With the power of financial resources we have acquired from our international work, we bring you together with projects that inspire admiration. With our environmentally friendly approach and sustainable designs, we are ready to raise your living standards even further.",
           "moreLink": "Learn More"
         },
         "slider": {
@@ -758,9 +758,9 @@
           }
         },
         "projectsSection": {
-          "label": "Discover Sobutay Projects",
+          "label": "Discover <strong>Sobutay Ticaret</strong> Projects",
           "title": "Completed and ongoing projects!",
-          "description": "<span class=\"bold\">Sobutay's</span> modern and innovative project collection will amaze you. We offer the highest quality standards in architectural design, steel manufacturing and interior decoration.",
+          "description": "<strong>Sobutay Ticaret's</span> modern and innovative project collection will amaze you. We offer the highest quality standards in architectural design, steel manufacturing and interior decoration.",
           "moreLink": "Learn More"
         },
         "featuredProjects": {
@@ -823,7 +823,7 @@
         },
         "footer": {
           "heading1": "Unique, peaceful.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Privacy Policy",
           "terms": "Terms & Conditions"
         }
@@ -832,8 +832,8 @@
         "title": "About Us",
         "url": "en/about.html",
         "meta": {
-          "title": "About Us | Sobutay",
-          "description": "Learn more about Sobutay. International standards, sustainable practices."
+          "title": "About Us | Sobutay Ticaret",
+          "description": "Learn more about <strong>Sobutay Ticaret</strong>. International standards, sustainable practices."
         },
         "nav": {
           "about": "About Us",
@@ -845,7 +845,7 @@
         "banner": {
           "heading1": "International standards,",
           "heading2": "Sustainable practices",
-          "description": "As Sobutay, we bring projects to life that enrich the real estate professionals. Using the power of financial resources gained from our international work, we present you with amazing projects. With our environmentally conscious approach and sustainable design, we are ready to raise your living standards even higher."
+          "description": "As <strong>Sobutay Ticaret</strong>, we bring projects to life that enrich the real estate professionals. Using the power of financial resources gained from our international work, we present you with amazing projects. With our environmentally conscious approach and sustainable design, we are ready to raise your living standards even higher."
         },
         "services": {
           "architecturalWonders": {
@@ -874,16 +874,16 @@
         "founder": {
           "title": "Our Founder",
           "name": "Uğur Sobutay",
-          "quote": "Sobutay approaches each project with an innovative and excellence mindset, addressing all necessary aspects. Through our services in construction, architecture and interior decoration, we transform our clients' dreams into reality. We build projects that meet the highest standards in terms of quality, aesthetics and functionality.",
+          "quote": "<strong>Sobutay Ticaret</strong> approaches each project with an innovative and excellence mindset, addressing all necessary aspects. Through our services in construction, architecture and interior decoration, we transform our clients' dreams into reality. We build projects that meet the highest standards in terms of quality, aesthetics and functionality.",
           "moreLink": "More →"
         },
         "experience": {
           "heading": "Experience and Expertise!",
-          "description": "Building experience over years in the construction and architecture sector, Sobutay offers innovative solutions in each of its projects. With unique designs and perfect execution, it has earned a strong position in the industry."
+          "description": "Building experience over years in the construction and architecture sector, <strong>Sobutay Ticaret</strong> offers innovative solutions in each of its projects. With unique designs and perfect execution, it has earned a strong position in the industry."
         },
         "footer": {
           "heading": "Unique, peaceful.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Privacy Policy",
           "terms": "Terms & Conditions"
         }
@@ -892,8 +892,8 @@
         "title": "Projects",
         "url": "en/projects.html",
         "meta": {
-          "title": "Our Projects | Sobutay",
-          "description": "Explore all of Sobutay's projects. Architecture, interior design, steel fabrication."
+          "title": "Our Projects | Sobutay Ticaret",
+          "description": "Explore all of <strong>Sobutay Ticaret</strong>'s projects. Architecture, interior design, steel fabrication."
         },
         "nav": {
           "about": "About Us",
@@ -904,7 +904,7 @@
         },
         "banner": {
           "heading": "Unique, peaceful.",
-          "description": "As Sobutay, we are proud to successfully complete our projects, each with a unique story and special vision. We continue to develop projects with superior aesthetics and functionality that add value to our customers and society."
+          "description": "As <strong>Sobutay Ticaret</strong>, we are proud to successfully complete our projects, each with a unique story and special vision. We continue to develop projects with superior aesthetics and functionality that add value to our customers and society."
         },
         "filters": {
           "all": "All Projects",
@@ -967,7 +967,7 @@
         },
         "footer": {
           "heading": "Unique, peaceful.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Privacy Policy",
           "terms": "Terms & Conditions"
         }
@@ -975,7 +975,7 @@
       "projectDetails": {
         "libertyHotel": {
           "meta": {
-            "title": "Liberty Hotel Kusadasi | Sobutay"
+            "title": "Liberty Hotel Kusadasi | Sobutay Ticaret"
           },
           "number": "01.",
           "title": "LIBERTY HOTEL KUSADASI",
@@ -997,11 +997,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "LIBERTY HOTEL, one of the ÖZYER GRUP HOTELS, began its interior design transformation in 2024. With the renovation of the main restaurant and restaurants featuring cuisines from various countries, as well as various landscape decorations and areas in the lobby area, we completed a magnificent transformation with the work of landscape architect TÜLAY TOSUN's projects. Additionally, in October 2024, we added a stage structure to the beachfront area, designed with a steel static project by Civil Engineer ENGİN ERDOĞAN.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "xoCape": {
           "meta": {
-            "title": "XO Cape Antalya Hotel | Sobutay"
+            "title": "XO Cape Antalya Hotel | Sobutay Ticaret"
           },
           "number": "02.",
           "title": "XO CAPE ANTALYA HOTEL",
@@ -1019,11 +1019,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "XO CARPE ARNA, one of the ÖZYER GRUP HOTELS, is one of the newest hotels of ÖZYER GRUP and began operations in 2025. The hotel entrance canopy, completely manufactured from heavy steel with a unique design signed by Architect YEŞİM KOZANLI, was created based on a steel static project of approximately 65 tons designed by Civil Engineer ENGİN ERDOĞAN. We are particularly proud to have manufactured this work.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "hesapciogluOpel": {
           "meta": {
-            "title": "Hesapcioglu Opel Showroom | Sobutay"
+            "title": "Hesapcioglu Opel Showroom | Sobutay Ticaret"
           },
           "number": "03.",
           "title": "HESAPCIOGLU OPEL SHOWROOM",
@@ -1041,11 +1041,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of HESAPCIOGLU A.S. management office project, the interior decoration renovation project was designed by us and delivered turnkey. In our project, which was completed in 2023, there are management rooms suitable for the open office system. While the main purpose in office design is to ensure that managers and employees have an ergonomic and functional space, we have also planned our office design with acoustic solutions suitable for heavy sound traffic. Our office project is designed with special modular partition walls that provide sound insulation up to 49dB, and an acoustic and comfortable environment has been achieved with carpet tiles and acoustic suspended ceiling systems.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "altintarTarim": {
           "meta": {
-            "title": "Altintar Agriculture Management Office | Sobutay"
+            "title": "Altintar Agriculture Management Office | Sobutay Ticaret"
           },
           "number": "04.",
           "title": "ALTINTAR AGRICULTURE MANAGEMENT OFFICE",
@@ -1063,11 +1063,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of ALTINTAR TARIM A.S. management office project, the interior decoration renovation project with KST ARCHITECTURE design was manufactured by us and delivered turnkey. In the ALTINTAR TARIM management office, which became operational in 2022, we manufactured different types of offices and meeting halls suitable for use. In these areas, we used our Wooden Baffle Suspended Ceiling, Aluminum Baffle Suspended Ceiling, Carpet Tiles, Mesh Type Suspended Ceiling, and Modular Partition Wall products. In this project, which aims at each department's unique colors and designs, we used Aluminum and Wood materials more prominently.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "gultepeSport": {
           "meta": {
-            "title": "Gultepe Sports Complex | Sobutay"
+            "title": "Gultepe Sports Complex | Sobutay Ticaret"
           },
           "number": "05.",
           "title": "GULTEPE SPORTS COMPLEX",
@@ -1085,11 +1085,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the GULTEPE SPORTS COMPLEX project built by KONAK MUNICIPALITY, we constructed areas suitable for use. In our multi-purpose sports complex design, the Artificial Turf Field, Volleyball, and Basketball facilities designed and implemented by us are designed to host international-level tournaments. We have successfully delivered this product, manufactured suitable for actual use, in the multi-purpose sports complex that became operational in 2021.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "camlicaYapi": {
           "meta": {
-            "title": "Camlica Construction Market Office | Sobutay"
+            "title": "Camlica Construction Market Office | Sobutay Ticaret"
           },
           "number": "06.",
           "title": "CAMLICA YAPI MARKET OFFICE",
@@ -1107,11 +1107,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the CAMLICA YAPI MARKET management office renovation project, in the management office project designed by DNA ARCHITECTURE, we manufactured 1180 m2 of Modular Partition Walls and 200 m2 of Carpet Tiles. In the Camlica Yapi Market management office that became operational in 2021, we designed 2 meeting rooms and 1 fully acoustic rest room.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "kareOtomotiv": {
           "meta": {
-            "title": "Kare Automotive VW Office | Sobutay"
+            "title": "Kare Automotive VW Office | Sobutay Ticaret"
           },
           "number": "07.",
           "title": "KARE AUTOMOTIVE VW OFFICE",
@@ -1129,11 +1129,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the KARE AUTOMOTIVE management office renovation project, in the management office project designed by DNA ARCHITECTURE, we manufactured 1080 m2 of Modular Partition Walls and 1020 m2 of Carpet Tiles. In the management office that became operational in 2021, we designed 2 meeting rooms and 1 fully acoustic rest room.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "musliksShowroom": {
           "meta": {
-            "title": "Musliks Showroom Building | Sobutay"
+            "title": "Musliks Showroom Building | Sobutay Ticaret"
           },
           "number": "08.",
           "title": "MUSLIKS SHOWROOM BUILDING",
@@ -1151,11 +1151,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the MULTIKS management office renovation project, in the management office project designed by ARCHITECT ORÇUN ÇELİK, we manufactured 4210 m2 of Baffle Suspended Ceiling. In the Multiks management office that became operational in 2023, we designed 4 meeting rooms and 1 showroom of 4400m2.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "aosbKres": {
           "meta": {
-            "title": "Antalya Organized Industrial Estate Kindergarten | Sobutay"
+            "title": "Antalya Organized Industrial Estate Kindergarten | Sobutay Ticaret"
           },
           "number": "09.",
           "title": "ANTALYA ORGANIZED INDUSTRIAL ESTATE KINDERGARTEN",
@@ -1173,11 +1173,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the kindergarten project construction started in 2024 in ANTALYA ORGANIZED INDUSTRIAL ESTATE, the static project drawn by Civil Engineer Engin ERDOĞAN and who managed the project consultation, in this project, the drawings completed in AUTODESK REVIT program, as of 2025, the project has been completed and opened for use by AOSB.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "otomolOfis": {
           "meta": {
-            "title": "Otomol Office Project | Sobutay"
+            "title": "Otomol Office Project | Sobutay Ticaret"
           },
           "number": "10.",
           "title": "OTOMOL OFFICE PROJECT",
@@ -1195,11 +1195,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "BAYKAN AUTOMOBILE management office interior decoration project is a project that we started in 2017 and the design belongs to us. In our management office project, various Suspended Ceiling systems were used and it has Green Building System Certification. In the suspended ceiling types used in our project, Trapez System and Honeycomb Suspended Ceiling System obtained from recycling were used. Additionally, in our office floors, 1,200 m2 of natural wood laminate parquet and 2,500m2 of breathable carpet tiles were installed.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "sunHotel": {
           "meta": {
-            "title": "Sun Hotel Alanya | Sobutay"
+            "title": "Sun Hotel Alanya | Sobutay Ticaret"
           },
           "number": "11.",
           "title": "SUN HOTEL ALANYA",
@@ -1217,11 +1217,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the GÜÇLÜ TURİZM management office renovation project, in the hotel common area project designed by ARCHITECT YEŞİM KOZANLI, we manufactured 2810 m2 of Baffle Suspended Ceiling and 5200 m2 of Honeycomb Suspended Ceiling. Our renovation project in the common areas of Sun Hotel, belonging to GÜÇLÜ TURİZM which became operational in 2020, was delivered in as short a period as 60 days.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "jwMaltepe": {
           "meta": {
-            "title": "JW Maltepe Conference Hall | Sobutay"
+            "title": "JW Maltepe Conference Hall | Sobutay Ticaret"
           },
           "number": "12.",
           "title": "JW MALTEPE CONFERENCE HALL",
@@ -1239,11 +1239,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In our JW management office turnkey project, the architectural project was received by JW MANAGEMENT BOARD and in the manufacturing part we have completed our manufacturing with many acoustic and fire-resistant high-performance materials. In our conference hall project, 1520 m2 of AMF THERMATE DB ACOUSTIC, 1200 m2 of motorized louvered modular partition wall, 900 m2 of Tarkett Carpet Tiles, fire-resistant acoustic doors and 3750 m2 of Knauf Diamant series are installed on the walls. Our JW conference hall project that became operational in 2023 was delivered and opened for use in as short a period as 3 months.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "camlicaYapi": {
           "meta": {
-            "title": "Camlica Yapi Market Office | Sobutay"
+            "title": "Camlica Yapi Market Office | Sobutay Ticaret"
           },
           "number": "06.",
           "title": "CAMLICA YAPI MARKET OFFICE",
@@ -1261,11 +1261,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of CAMLICA YAPI MARKET management office project, designed by DNA ARCHITECTURE, 1180 m2 of modular partition walls and 200 m2 of carpet tiles were manufactured. In the Camlica Yapi Market management office that became operational in 2021, we designed 2 meeting rooms and 1 completely acoustic rest room.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "kareOtomotiv": {
           "meta": {
-            "title": "Kare Otomotiv VW Office | Sobutay"
+            "title": "Kare Otomotiv VW Office | Sobutay Ticaret"
           },
           "number": "07.",
           "title": "KARE OTOMOTIV VW OFFICE",
@@ -1283,11 +1283,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of KARE OTOMOTIV management office project, designed by DNA ARCHITECTURE, 1080 m2 of modular partition walls and 1020 m2 of carpet tiles were manufactured. In the management office that became operational in 2021, we designed 2 meeting rooms and 1 completely acoustic rest room.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "musliksShowroom": {
           "meta": {
-            "title": "Musliks Showroom Building | Sobutay"
+            "title": "Musliks Showroom Building | Sobutay Ticaret"
           },
           "number": "08.",
           "title": "MUSLIKS SHOWROOM BUILDING",
@@ -1305,11 +1305,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of MULTIKS management office project, designed by ARCHITECT ORCUN CELIK, 4210 m2 of baffle suspended ceiling was manufactured. In the Multiks management office that became operational in 2023, we designed 4 meeting rooms and 1 4400m2 showroom.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "aosbKres": {
           "meta": {
-            "title": "AOSB Nursery | Sobutay"
+            "title": "AOSB Nursery | Sobutay Ticaret"
           },
           "number": "09.",
           "title": "ANTALYA ORGANIZED INDUSTRIAL ZONE NURSERY",
@@ -1327,11 +1327,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the nursery project construction started in 2024 in ANTALYA ORGANIZED INDUSTRIAL ZONE, the static project was drawn by Civil Engineer Engin ERDOGAN and the project consultation was carried out by him. The project, which was completed in AUTODESK REVIT program, was finished as of 2025 and opened for use by AOSB.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "otomolOfis": {
           "meta": {
-            "title": "Otomol Office Project | Sobutay"
+            "title": "Otomol Office Project | Sobutay Ticaret"
           },
           "number": "10.",
           "title": "OTOMOL OFFICE PROJECT",
@@ -1349,11 +1349,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "BAYKAN AUTOMOBILE management office interior decoration project is a project we started in 2017 with the design belonging to us. Our management office project uses various suspended ceiling systems and has Green Building System Certification. The suspended ceiling types used in our project include Trapeze System and Honeycomb Suspended Ceiling System obtained from recycling. Additionally, the office floors are covered with 1.200 m2 of natural wood laminate parquet and 2.500m2 of breathable carpet tiles.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "sunHotel": {
           "meta": {
-            "title": "Sun Hotel Alanya | Sobutay"
+            "title": "Sun Hotel Alanya | Sobutay Ticaret"
           },
           "number": "11.",
           "title": "SUN HOTEL ALANYA",
@@ -1371,11 +1371,11 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In the renovation of GUCLU TOURISM management office project, designed by ARCHITECT YESIM KOZANLI, 2810 m2 of baffle suspended ceiling and 5200 m2 of honeycomb suspended ceiling were manufactured. The renovation project of Sun Hotel, belonging to GUCLU TOURISM which became operational in 2020, in the common areas was delivered in as short a time as 60 days.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         },
         "jwMaltepe": {
           "meta": {
-            "title": "JW Maltepe Conference Hall | Sobutay"
+            "title": "JW Maltepe Conference Hall | Sobutay Ticaret"
           },
           "number": "12.",
           "title": "JW MALTEPE CONFERENCE HALL",
@@ -1393,14 +1393,14 @@
           },
           "descriptionTitle": "DESCRIPTION",
           "description": "In our JW management office project turnkey, the architectural project came from the JW MANAGEMENT BOARD and in the manufacturing section we have completed our manufacturing with many acoustic and fire-resistant materials. In our conference hall project, 1520 m2 of AMF THERMATE DB ACOUSTIC, 1200 m2 of automatic louvered modular partition walls, 900 m2 of Tarkett carpet tiles, fire-resistant acoustic doors and 3750 m2 of Knauf Diamond series walls were installed. The JW conference hall project, which became operational in 2023, was delivered and opened for use in 3 months.",
-          "footerCopyright": "© 2024 Sobutay. All rights reserved."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. All rights reserved."
         }
       },
       "dealers": {
         "title": "Dealers",
         "url": "en/dealers.html",
         "meta": {
-          "title": "Our Dealers | Sobutay",
+          "title": "Our Dealers | Sobutay Ticaret",
           "description": "Meet our dealers."
         },
         "nav": {
@@ -1412,7 +1412,7 @@
         },
         "hero": {
           "heading": "Dealers",
-          "description": "As the Sobutay family, we have a strong dealer network nationwide and in international markets. Together with our valued business partners and dealers, we are committed to delivering high-quality products and services to our customers."
+          "description": "As the <strong>Sobutay Ticaret</strong> family, we have a strong dealer network nationwide and in international markets. Together with our valued business partners and dealers, we are committed to delivering high-quality products and services to our customers."
         },
         "cards": {
           "bostik": "Our trusted partner, a leader in the construction materials sector.",
@@ -1423,15 +1423,15 @@
           "dendro": "A reliable supplier specialized in wood and decorative products.",
           "splash": "Provides high-quality products in bathroom and flooring solutions.",
           "verox": "Produces innovative, quality flooring materials.",
-          "trio": "Part of the Sobutay family as a provider of quality products and services."
+          "trio": "Part of the <strong>Sobutay Ticaret</strong> family as a provider of quality products and services."
         },
         "banner": {
           "heading": "Our Valued Dealers",
-          "description": "As the Sobutay family, we have a strong dealer network nationwide and in international markets. We are honored to work with our valued business partners and dealers."
+          "description": "As the <strong>Sobutay Ticaret</strong> family, we have a strong dealer network nationwide and in international markets. We are honored to work with our valued business partners and dealers."
         },
         "footer": {
           "heading1": "Unique, peaceful.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Privacy Policy",
           "terms": "Terms & Conditions"
         }
@@ -1440,7 +1440,7 @@
         "title": "Solution Partners",
         "url": "en/partners.html",
         "meta": {
-          "title": "Solution Partners | Sobutay",
+          "title": "Solution Partners | Sobutay Ticaret",
           "description": "Meet our solution partners."
         },
         "nav": {
@@ -1452,15 +1452,15 @@
         },
         "banner": {
           "heading": "Solution Partners",
-          "description": "As the Sobutay family, we are proud to work with our country's leading architects and business partners. Experienced and visionary names are at the helm of quality projects."
+          "description": "As the <strong>Sobutay Ticaret</strong> family, we are proud to work with our country's leading architects and business partners. Experienced and visionary names are at the helm of quality projects."
         }
       },
       "contact": {
         "title": "Contact",
         "url": "en/contact.html",
         "meta": {
-          "title": "Contact | Sobutay",
-          "description": "Get in touch with Sobutay."
+          "title": "Contact | Sobutay Ticaret",
+          "description": "Get in touch with <strong>Sobutay Ticaret</strong>."
         },
         "nav": {
           "about": "About Us",
@@ -1471,7 +1471,7 @@
         },
         "hero": {
           "heading": "Get in touch <br> with us.",
-          "description": "Hello! At Sobutay, we value customer satisfaction and effective communication. We are here to listen to your needs and provide the best service. Whether you have a question, a collaboration proposal, or feedback, feel free to contact us."
+          "description": "Hello! At <strong>Sobutay Ticaret</strong>, we value customer satisfaction and effective communication. We are here to listen to your needs and provide the best service. Whether you have a question, a collaboration proposal, or feedback, feel free to contact us."
         },
         "contactBar": {
           "form": "Contact Form",
@@ -1487,7 +1487,7 @@
         },
         "footer": {
           "heading1": "Unique, peaceful.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Privacy Policy",
           "terms": "Terms & Conditions"
         }
@@ -1495,9 +1495,9 @@
     }
   },
   "ru": {
-    "siteName": "Sobutay ® | 228 4 509",
+    "siteName": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88",
     "common": {
-      "phone": "228 4 509",
+      "phone": "+90 532 588 90 88",
       "email": "info@bySobutay.com",
       "whatsapp": "+905325889088",
       "instagram": "https://www.instagram.com/sobutayticaret/",
@@ -1515,7 +1515,7 @@
         "title": "Главная",
         "url": "ru/index.html",
         "meta": {
-          "title": "Sobutay ® | 228 4 509 | Главная",
+          "title": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88 | Главная",
           "description": "Познакомьтесь с захватывающими проектами."
         },
         "nav": {
@@ -1580,7 +1580,7 @@
           }
         },
         "contactBar": {
-          "phone": "228 4 509",
+          "phone": "+90 532 588 90 88",
           "contactForm": "Форма обратной связи",
           "onlineCall": "Онлайн встреча",
           "whatsapp": "Whatsapp"
@@ -1588,7 +1588,7 @@
         "banner": {
           "dreamsTrust": "Ваши мечты",
           "trustUs": "доверены нам.",
-          "description": "Sobutay — хорошо зарекомендовавшаяся компания, известная инновационными проектами в области строительства и архитектуры. Имея многолетний опыт и команду экспертов, она обслуживает своих клиентов высочайшим качеством, творческим дизайном и совершенством. Как Sobutay, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Демонстрируя компетентность в архитектурном проектировании, производстве стали, системах подвесных потолков и внутреннем оформлении, мы завершаем наши проекты в соответствии с самыми высокими стандартами. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше.",
+          "description": "Sobutay — хорошо зарекомендовавшаяся компания, известная инновационными проектами в области строительства и архитектуры. Имея многолетний опыт и команду экспертов, она обслуживает своих клиентов высочайшим качеством, творческим дизайном и совершенством. Как <strong>Sobutay Ticaret</strong>, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Демонстрируя компетентность в архитектурном проектировании, производстве стали, системах подвесных потолков и внутреннем оформлении, мы завершаем наши проекты в соответствии с самыми высокими стандартами. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше.",
           "moreLink": "Подробнее"
         },
         "slider": {
@@ -1612,9 +1612,9 @@
           }
         },
         "projectsSection": {
-          "label": "Откройте для себя проекты Sobutay",
+          "label": "Откройте для себя проекты <strong>Sobutay Ticaret</strong>",
           "title": "Завершенные и текущие проекты!",
-          "description": "<span class=\"bold\">Современная</span> и инновационная коллекция проектов Sobutay вас поразит. Мы предлагаем высочайшие стандарты качества в архитектурном проектировании, производстве стали и внутренней отделке.",
+          "description": "<span class=\"bold\">Современная</span> и инновационная коллекция проектов <strong>Sobutay Ticaret</strong> вас поразит. Мы предлагаем высочайшие стандарты качества в архитектурном проектировании, производстве стали и внутренней отделке.",
           "moreLink": "Подробнее"
         },
         "featuredProjects": {
@@ -1677,7 +1677,7 @@
         },
         "footer": {
           "heading1": "Уникальный, спокойный.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Политика конфиденциальности",
           "terms": "Правила и условия"
         }
@@ -1686,8 +1686,8 @@
         "title": "О нас",
         "url": "ru/about.html",
         "meta": {
-          "title": "О нас | Sobutay",
-          "description": "Узнайте больше о компании Sobutay. Международные стандарты, устойчивые практики."
+          "title": "О нас | Sobutay Ticaret",
+          "description": "Узнайте больше о компании <strong>Sobutay Ticaret</strong>. Международные стандарты, устойчивые практики."
         },
         "nav": {
           "about": "О нас",
@@ -1699,7 +1699,7 @@
         "banner": {
           "heading1": "Международные стандарты,",
           "heading2": "Устойчивые практики",
-          "description": "Как компания Sobutay, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше."
+          "description": "Как компания <strong>Sobutay Ticaret</strong>, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше."
         },
         "services": {
           "architecturalWonders": {
@@ -1728,16 +1728,16 @@
         "founder": {
           "title": "Наш основатель",
           "name": "Uğur Sobutay",
-          "quote": "Sobutay подходит к каждому проекту с инновационным мышлением и стремлением к совершенству, рассматривая все необходимые аспекты. Благодаря нашим услугам в области строительства, архитектуры и внутреннего оформления мы воплощаем мечты наших клиентов в реальность. Мы строим проекты, которые соответствуют самым высоким стандартам по качеству, эстетике и функциональности.",
+          "quote": "<strong>Sobutay Ticaret</strong> подходит к каждому проекту с инновационным мышлением и стремлением к совершенству, рассматривая все необходимые аспекты. Благодаря нашим услугам в области строительства, архитектуры и внутреннего оформления мы воплощаем мечты наших клиентов в реальность. Мы строим проекты, которые соответствуют самым высоким стандартам по качеству, эстетике и функциональности.",
           "moreLink": "Подробнее →"
         },
         "experience": {
           "heading": "Опыт и экспертиза!",
-          "description": "Накопив опыт в течение многих лет в секторе строительства и архитектуры, Sobutay предлагает инновационные решения в каждом своем проекте. Благодаря уникальным дизайнам и безупречному исполнению он занял прочную позицию в отрасли."
+          "description": "Накопив опыт в течение многих лет в секторе строительства и архитектуры, <strong>Sobutay Ticaret</strong> предлагает инновационные решения в каждом своем проекте. Благодаря уникальным дизайнам и безупречному исполнению он занял прочную позицию в отрасли."
         },
         "footer": {
           "heading": "Уникальный, спокойный.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Политика конфиденциальности",
           "terms": "Правила и условия"
         }
@@ -1746,8 +1746,8 @@
         "title": "Проекты",
         "url": "ru/projects.html",
         "meta": {
-          "title": "Наши проекты | Sobutay",
-          "description": "Изучите все проекты компании Sobutay. Архитектура, дизайн интерьера, производство стали."
+          "title": "Наши проекты | Sobutay Ticaret",
+          "description": "Изучите все проекты компании <strong>Sobutay Ticaret</strong>. Архитектура, дизайн интерьера, производство стали."
         },
         "nav": {
           "about": "О нас",
@@ -1758,7 +1758,7 @@
         },
         "banner": {
           "heading": "Уникальный, спокойный.",
-          "description": "Как компания Sobutay, мы гордимся успешным завершением наших проектов, каждый из которых обладает уникальной историей и особым видением. Мы продолжаем разрабатывать проекты с превосходной эстетикой и функциональностью, которые приносят пользу нашим клиентам и обществу."
+          "description": "Как компания <strong>Sobutay Ticaret</strong>, мы гордимся успешным завершением наших проектов, каждый из которых обладает уникальной историей и особым видением. Мы продолжаем разрабатывать проекты с превосходной эстетикой и функциональностью, которые приносят пользу нашим клиентам и обществу."
         },
         "filters": {
           "all": "Все проекты",
@@ -1821,7 +1821,7 @@
         },
         "footer": {
           "heading": "Уникальный, спокойный.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Политика конфиденциальности",
           "terms": "Условия и положения"
         }
@@ -1829,7 +1829,7 @@
       "projectDetails": {
         "libertyHotel": {
           "meta": {
-            "title": "Liberty Hotel Кушадасы | Sobutay"
+            "title": "Liberty Hotel Кушадасы | Sobutay Ticaret"
           },
           "number": "01.",
           "title": "LIBERTY HOTEL КУШАДАСЫ",
@@ -1851,11 +1851,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "LIBERTY HOTEL, один из отелей ÖZYER GRUP, начал преобразование дизайна интерьера в 2024 году. С обновлением главного ресторана и ресторанов с кухнями разных стран, а также различными ландшафтными украшениями и зонами в зоне лобби, мы завершили великолепную трансформацию с работой ландшафтного архитектора TÜLAY TOSUN. Кроме того, в октябре 2024 года мы добавили сценическую конструкцию в прибрежной зоне, разработанную с помощью стального статического проекта инженером-строителем ENGİN ERDOĞAN.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "xoCape": {
           "meta": {
-            "title": "XO Cape Antalya Hotel | Sobutay"
+            "title": "XO Cape Antalya Hotel | Sobutay Ticaret"
           },
           "number": "02.",
           "title": "XO CAPE ANTALYA HOTEL",
@@ -1873,11 +1873,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "XO CARPE ARNA, один из отелей ÖZYER GRUP, является одним из новейших отелей ÖZYER GRUP и начал работу в 2025 году. Навес у входа в отель, полностью изготовленный из тяжелой стали с уникальным дизайном, подписанным архитектором YEŞİM KOZANLI, был создан на основе стального статического проекта весом примерно 65 тонн, разработанного инженером-строителем ENGİN ERDOĞAN. Мы особенно гордимся тем, что изготовили эту работу.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "hesapciogluOpel": {
           "meta": {
-            "title": "Hesapcioglu Opel Шоурум | Sobutay"
+            "title": "Hesapcioglu Opel Шоурум | Sobutay Ticaret"
           },
           "number": "03.",
           "title": "HESAPCIOGLU OPEL ШОУРУМ",
@@ -1895,11 +1895,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В рамках реновации проекта управленческого офиса HESAPCIOGLU A.S., проект реновации интерьера был разработан нами и передан под ключ. В нашем проекте, завершенном в 2023 году, есть управленческие кабинеты, подходящие для системы открытого офиса. Хотя основная цель дизайна офиса заключается в том, чтобы менеджеры и сотрудники имели эргономичное и функциональное пространство, мы также спланировали наш дизайн офиса с акустическими решениями, подходящими для интенсивного шумового трафика. Наш офисный проект спроектирован со специальными модульными перегородками, обеспечивающими звукоизоляцию до 49дБ, и акустическая и комфортная среда была достигнута с помощью ковровой плитки и акустических подвесных потолочных систем.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "altintarTarim": {
           "meta": {
-            "title": "Офис управления Altintar Tarım | Sobutay"
+            "title": "Офис управления Altintar Tarım | Sobutay Ticaret"
           },
           "number": "04.",
           "title": "ОФИС УПРАВЛЕНИЯ ALTINTAR TARIM",
@@ -1917,11 +1917,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В рамках реновации проекта управленческого офиса ALTINTAR TARIM A.S., проект реновации интерьера с дизайном KST ARCHITECTURE был изготовлен нами и передан под ключ. В управленческом офисе ALTINTAR TARIM, который стал функциональным в 2022 году, мы изготовили различные типы офисов и конференц-залы, подходящие для использования. В этих помещениях мы использовали наши продукты: деревянный баффельный подвесной потолок, алюминиевый баффельный подвесной потолок, ковровая плитка, подвесной потолок типа mesh и модульные перегородки. В этом проекте, нацеленном на уникальные цвета и дизайны каждого отдела, мы более заметно использовали алюминий и дерево.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "gultepeSport": {
           "meta": {
-            "title": "Спортивный комплекс Гюльтепе | Sobutay"
+            "title": "Спортивный комплекс Гюльтепе | Sobutay Ticaret"
           },
           "number": "05.",
           "title": "СПОРТИВНЫЙ КОМПЛЕКС ГЮЛЬТЕПЕ",
@@ -1939,11 +1939,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте СПОРТИВНЫЙ КОМПЛЕКС ГЮЛЬТЕПЕ, построенном МУНИЦИПАЛИТЕТОМ КОНАК, мы построили площади, пригодные для использования. В нашем дизайне многофункционального спортивного комплекса искусственное поле, волейбольные и баскетбольные площадки, спроектированные и реализованные нами, предназначены для проведения международных турниров. Мы успешно поставили этот продукт, изготовленный пригодным для реального использования, в многофункциональный спортивный комплекс, который начал работу в 2021 году.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "camlicaYapi": {
           "meta": {
-            "title": "Офис строительного рынка Чамлыджа | Sobutay"
+            "title": "Офис строительного рынка Чамлыджа | Sobutay Ticaret"
           },
           "number": "06.",
           "title": "ОФИС СТРОИТЕЛЬНОГО РЫНКА ЧАМЛЫДЖА",
@@ -1961,11 +1961,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте реновации управленческого офиса ЧАМЛЫДЖА СТРОИТЕЛЬНЫЙ РЫНОК, в проекте управленческого офиса, разработанном ДНА АРХИТЕКТУРА, мы изготовили 1180 м2 модульных перегородок и 200 м2 ковровой плитки. В управленческом офисе Чамлыджа Строительный рынок, введенном в эксплуатацию в 2021 году, мы разработали 2 переговорные и 1 полностью акустическую комнату отдыха.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "kareOtomotiv": {
           "meta": {
-            "title": "Офис Kare Automotive VW | Sobutay"
+            "title": "Офис Kare Automotive VW | Sobutay Ticaret"
           },
           "number": "07.",
           "title": "ОФИС KARE AUTOMOTIVE VW",
@@ -1983,11 +1983,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте реновации управленческого офиса KARE AUTOMOTIVE, в проекте управленческого офиса, разработанном ДНА АРХИТЕКТУРА, мы изготовили 1080 м2 модульных перегородок и 1020 м2 ковровой плитки. В управленческом офисе, введенном в эксплуатацию в 2021 году, мы разработали 2 переговорные и 1 полностью акустическую комнату отдыха.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "musliksShowroom": {
           "meta": {
-            "title": "Здание выставочного зала Musliks | Sobutay"
+            "title": "Здание выставочного зала Musliks | Sobutay Ticaret"
           },
           "number": "08.",
           "title": "ЗДАНИЕ ВЫСТАВОЧНОГО ЗАЛА MUSLIKS",
@@ -2005,11 +2005,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте реновации управленческого офиса MULTIKS, в проекте управленческого офиса, разработанном АРХИТЕКТОРОМ ОРЧУНОМ ЧЕЛИКОМ, мы изготовили 4210 м2 баффельного подвесного потолка. В управленческом офисе Multiks, введенном в эксплуатацию в 2023 году, мы разработали 4 переговорные и 1 выставочный зал площадью 4400м2.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "aosbKres": {
           "meta": {
-            "title": "Детский сад Анталийской организованной промышленной зоны | Sobutay"
+            "title": "Детский сад Анталийской организованной промышленной зоны | Sobutay Ticaret"
           },
           "number": "09.",
           "title": "ДЕТСКИЙ САД АНТАЛИЙСКОЙ ОРГАНИЗОВАННОЙ ПРОМЫШЛЕННОЙ ЗОНЫ",
@@ -2027,11 +2027,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте детского сада, строительство которого началось в 2024 году в АНТАЛИЙСКОЙ ОРГАНИЗОВАННОЙ ПРОМЫШЛЕННОЙ ЗОНЕ, статический проект разработан инженером-строителем Энгином ERDOĞAN и который управлял консультацией проекта, в этом проекте чертежи завершены в программе AUTODESK REVIT, на 2025 год проект завершен и открыт для использования AOSB.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "otomolOfis": {
           "meta": {
-            "title": "Офисный проект Отомол | Sobutay"
+            "title": "Офисный проект Отомол | Sobutay Ticaret"
           },
           "number": "10.",
           "title": "ОФИСНЫЙ ПРОЕКТ ОТОМОЛ",
@@ -2049,11 +2049,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "Проект декоративного оформления интерьера управленческого офиса БАЙКАН AUTOMOBILE - это проект, который мы начали в 2017 году и дизайн принадлежит нам. В нашем проекте управленческого офиса использовались различные системы подвесных потолков и имеет сертификацию Green Building System. В типах подвесных потолков, используемых в нашем проекте, использовались система трапеции и система ячеистого подвесного потолка, полученные из переработки. Кроме того, на полах нашего офиса были установлены 1200 м2 натурального ламинированного паркета из дерева и 2500м2 дышащей ковровой плитки.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "sunHotel": {
           "meta": {
-            "title": "Sun Hotel Alanya | Sobutay"
+            "title": "Sun Hotel Alanya | Sobutay Ticaret"
           },
           "number": "11.",
           "title": "SUN HOTEL ALANYA",
@@ -2071,11 +2071,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте реновации управленческого офиса GÜÇLÜ TURİZM, в проекте общей площади отеля, разработанном АРХИТЕКТОРОМ YEŞİM KOZANLI, мы изготовили 2810 м2 баффельного подвесного потолка и 5200 м2 ячеистого подвесного потолка. Наш проект реновации в общих зонах Sun Hotel, принадлежащего GÜÇLÜ TURİZM, который начал работу в 2020 году, был доставлен за столь короткий период, как 60 дней.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "jwMaltepe": {
           "meta": {
-            "title": "Конференц-зал JW Maltepe | Sobutay"
+            "title": "Конференц-зал JW Maltepe | Sobutay Ticaret"
           },
           "number": "12.",
           "title": "КОНФЕРЕНЦ-ЗАЛ JW MALTEPE",
@@ -2093,11 +2093,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В нашем проекте управленческого офиса JW под ключ, архитектурный проект был получен от УПРАВЛЕНИЯ СОВЕТОМ JW и в части производства мы завершили наше производство со многими акустическими и огнестойкими высокопроизводительными материалами. В нашем проекте конференц-зала установлены 1520 м2 AMF THERMATE DB ACOUSTIC, 1200 м2 модульной перегородки с моторизованными жалюзи, 900 м2 ковровой плитки Tarkett, огнестойкие акустические двери и 3750 м2 серии Knauf Diamant на стенах. Наш проект конференц-зала JW, введенный в эксплуатацию в 2023 году, был доставлен и открыт для использования в столь короткий период, как 3 месяца.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "gultepeSport": {
           "meta": {
-            "title": "Спортивный комплекс Gültepe | Sobutay"
+            "title": "Спортивный комплекс Gültepe | Sobutay Ticaret"
           },
           "number": "05.",
           "title": "СПОРТИВНЫЙ КОМПЛЕКС GÜLTEPE",
@@ -2115,11 +2115,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте СПОРТИВНОГО КОМПЛЕКСА Gültepe, построенном муниципалитетом KONAK, мы создали площади, пригодные для использования. В нашем многоцелевом спортивном комплексе искусственное травяное поле, волейбольные и баскетбольные сооружения, спроектированные для проведения международных турниров, были доставлены нами. В многоцелевом спортивном комплексе, который начал работу в 2021 году, мы обеспечили, чтобы используемые продукты производились и доставлялись, пригодные для реального использования.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "camlicaYapi": {
           "meta": {
-            "title": "Офис Çamlica Yapi Market | Sobutay"
+            "title": "Офис Çamlica Yapi Market | Sobutay Ticaret"
           },
           "number": "06.",
           "title": "ОФИС ÇAMLICA YAPI MARKET",
@@ -2137,11 +2137,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "При реновации проекта управленческого офиса ÇAMLICA YAPI MARKET, разработанного DNA ARCHITECTURE, было изготовлено 1180 м2 модульных перегородок и 200 м2 ковровой плитки. В управленческом офисе Çamlica Yapi Market, который начал работу в 2021 году, мы спроектировали 2 конференц-зала и 1 полностью звукоизолированную комнату отдыха.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "kareOtomotiv": {
           "meta": {
-            "title": "Офис Kare Otomotiv VW | Sobutay"
+            "title": "Офис Kare Otomotiv VW | Sobutay Ticaret"
           },
           "number": "07.",
           "title": "ОФИС KARE OTOMOTIV VW",
@@ -2159,11 +2159,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "При реновации проекта управленческого офиса KARE OTOMOTIV, разработанного DNA ARCHITECTURE, было изготовлено 1080 м2 модульных перегородок и 1020 м2 ковровой плитки. В управленческом офисе, который начал работу в 2021 году, мы спроектировали 2 конференц-зала и 1 полностью звукоизолированную комнату отдыха.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "musliksShowroom": {
           "meta": {
-            "title": "Здание Musliks Showroom | Sobutay"
+            "title": "Здание Musliks Showroom | Sobutay Ticaret"
           },
           "number": "08.",
           "title": "ЗДАНИЕ MUSLIKS SHOWROOM",
@@ -2181,11 +2181,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "При реновации проекта управленческого офиса MULTIKS, разработанного архитектором ORCUN CELIK, было изготовлено 4210 м2 баффельных подвесных потолков. В управленческом офисе Multiks, который начал работу в 2023 году, мы спроектировали 4 конференц-зала и 1 шоурум площадью 4400м2.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "aosbKres": {
           "meta": {
-            "title": "Детский сад AOSB | Sobutay"
+            "title": "Детский сад AOSB | Sobutay Ticaret"
           },
           "number": "09.",
           "title": "ДЕТСКИЙ САД AOSB",
@@ -2203,11 +2203,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В проекте детского сада, начатом в 2024 году в ПРОМЫШЛЕННОЙ ЗОНЕ АНТАЛЬЯ, статический проект был разработан инженером-строителем Engin ERDOGAN и управление проектом осуществлялось им. Проект, завершенный в программе AUTODESK REVIT, был завершен по состоянию на 2025 год и открыт для использования AOSB.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "otomolOfis": {
           "meta": {
-            "title": "Проект офиса Otomol | Sobutay"
+            "title": "Проект офиса Otomol | Sobutay Ticaret"
           },
           "number": "10.",
           "title": "ПРОЕКТ ОФИСА OTOMOL",
@@ -2225,11 +2225,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "Проект декорирования внутреннего офиса управления BAYKAN AUTOMOBILE - это проект, который мы начали в 2017 году с дизайном, принадлежащим нам. Наш проект офиса управления использует различные системы подвесных потолков и имеет сертификацию Green Building System. Типы подвесных потолков, используемые в нашем проекте, включают систему Trapeze и систему подвесных потолков Honeycomb, полученные из переработки. Кроме того, полы офиса покрыты 1.200 м2 натурального ламинированного паркета и 2.500м2 дышащей ковровой плитки.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "sunHotel": {
           "meta": {
-            "title": "Sun Hotel Alanya | Sobutay"
+            "title": "Sun Hotel Alanya | Sobutay Ticaret"
           },
           "number": "11.",
           "title": "SUN HOTEL ALANYA",
@@ -2247,11 +2247,11 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "При реновации проекта управленческого офиса GUCLU TOURISM, разработанного архитектором YESIM KOZANLI, было изготовлено 2810 м2 баффельных подвесных потолков и 5200 м2 сотовых подвесных потолков. Проект реновации Sun Hotel, принадлежащего GUCLU TOURISM, которая начала работу в 2020 году, в общих зонах был доставлен в течение всего 60 дней.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         },
         "jwMaltepe": {
           "meta": {
-            "title": "Конференц-зал JW Maltepe | Sobutay"
+            "title": "Конференц-зал JW Maltepe | Sobutay Ticaret"
           },
           "number": "12.",
           "title": "КОНФЕРЕНЦ-ЗАЛ JW MALTEPE",
@@ -2269,14 +2269,14 @@
           },
           "descriptionTitle": "ОПИСАНИЕ",
           "description": "В нашем проекте управленческого офиса JW под ключ архитектурный проект поступил от совета управления JW и в производстве мы завершили нашу работу со многими акустическими и огнестойкими материалами. В нашем проекте конференц-зала было установлено 1520 м2 AMF THERMATE DB ACOUSTIC, 1200 м2 модульных перегородок с автоматическими жалюзи, 900 м2 ковровой плитки Tarkett, огнестойкие акустические двери и 3750 м2 серии Knauf Diamond. Проект конференц-зала JW, который начал работу в 2023 году, был доставлен и открыт для использования в течение 3 месяцев.",
-          "footerCopyright": "© 2024 Sobutay. Все права защищены."
+          "footerCopyright": "© 2024 <strong>Sobutay Ticaret</strong>. Все права защищены."
         }
       },
       "dealers": {
         "title": "Дилеры",
         "url": "ru/dealers.html",
         "meta": {
-          "title": "Наши дилеры | Sobutay",
+          "title": "Наши дилеры | Sobutay Ticaret",
           "description": "Познакомьтесь с нашими дилерами."
         },
         "nav": {
@@ -2288,7 +2288,7 @@
         },
         "hero": {
           "heading": "Дилеры",
-          "description": "Как семья Sobutay, мы имеем сильную дилерскую сеть по всей стране и на международных рынках. Вместе с нашими уважаемыми деловыми партнерами и дилерами мы стремимся предоставлять клиентам высококачественные продукты и услуги."
+          "description": "Как семья <strong>Sobutay Ticaret</strong>, мы имеем сильную дилерскую сеть по всей стране и на международных рынках. Вместе с нашими уважаемыми деловыми партнерами и дилерами мы стремимся предоставлять клиентам высококачественные продукты и услуги."
         },
         "cards": {
           "bostik": "Наш надежный партнер, лидер в секторе строительных материалов.",
@@ -2299,15 +2299,15 @@
           "dendro": "Надежный поставщик, специализирующийся на деревянных и декоративных изделиях.",
           "splash": "Предлагает высококачественные решения для ванных комнат и напольных покрытий.",
           "verox": "Производит инновационные и качественные напольные материалы.",
-          "trio": "Часть семьи Sobutay как поставщик качественных продуктов и услуг."
+          "trio": "Часть семьи <strong>Sobutay Ticaret</strong> как поставщик качественных продуктов и услуг."
         },
         "banner": {
           "heading": "Наши уважаемые дилеры",
-          "description": "Как семья Sobutay, мы имеем сильную дилерскую сеть по всей стране и на международных рынках. Мы гордимся работой с нашими уважаемыми деловыми партнерами и дилерами."
+          "description": "Как семья <strong>Sobutay Ticaret</strong>, мы имеем сильную дилерскую сеть по всей стране и на международных рынках. Мы гордимся работой с нашими уважаемыми деловыми партнерами и дилерами."
         },
         "footer": {
           "heading1": "Уникальный, спокойный.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Политика конфиденциальности",
           "terms": "Правила и условия"
         }
@@ -2316,7 +2316,7 @@
         "title": "Партнеры",
         "url": "ru/partners.html",
         "meta": {
-          "title": "Партнеры | Sobutay",
+          "title": "Партнеры | Sobutay Ticaret",
           "description": "Познакомьтесь с нашими партнерами."
         },
         "nav": {
@@ -2328,15 +2328,15 @@
         },
         "banner": {
           "heading": "Партнеры",
-          "description": "Как семья Sobutay, мы гордимся работой с ведущими архитекторами и деловыми партнерами нашей страны. Опытные и дальновидные имена стоят во главе качественных проектов."
+          "description": "Как семья <strong>Sobutay Ticaret</strong>, мы гордимся работой с ведущими архитекторами и деловыми партнерами нашей страны. Опытные и дальновидные имена стоят во главе качественных проектов."
         }
       },
       "contact": {
         "title": "Контакт",
         "url": "ru/contact.html",
         "meta": {
-          "title": "Контакт | Sobutay",
-          "description": "Свяжитесь с компанией Sobutay."
+          "title": "Контакт | Sobutay Ticaret",
+          "description": "Свяжитесь с компанией <strong>Sobutay Ticaret</strong>."
         },
         "nav": {
           "about": "О нас",
@@ -2347,7 +2347,7 @@
         },
         "hero": {
           "heading": "Свяжитесь <br> с нами.",
-          "description": "Здравствуйте! В Sobutay мы ценим удовлетворенность клиентов и эффективную коммуникацию. Мы здесь, чтобы выслушать ваши потребности и предложить лучший сервис. Если у вас есть вопрос, предложение о сотрудничестве или отзыв — свяжитесь с нами."
+          "description": "Здравствуйте! В <strong>Sobutay Ticaret</strong> мы ценим удовлетворенность клиентов и эффективную коммуникацию. Мы здесь, чтобы выслушать ваши потребности и предложить лучший сервис. Если у вас есть вопрос, предложение о сотрудничестве или отзыв — свяжитесь с нами."
         },
         "contactBar": {
           "form": "Контактная форма",
@@ -2363,7 +2363,7 @@
         },
         "footer": {
           "heading1": "Уникальный, спокойный.",
-          "copyright": "2024 © Sobutay",
+          "copyright": "2024 © <strong>Sobutay Ticaret</strong>",
           "kvkk": "Политика конфиденциальности",
           "terms": "Правила и условия"
         }

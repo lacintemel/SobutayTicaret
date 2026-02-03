@@ -2057,3 +2057,104 @@ body.modal-open {
         right: 10px;
     }
 }
+
+/* =========================================
+   PROJE SAYFASI HEADER - SCROLL DAVRANIŞI
+   Başlangıçta görünür, scroll'da gizlenir
+   ========================================= */
+.project-page-header {
+    backdrop-filter: blur(24px);
+    background: rgba(255, 255, 255, 0.85);
+    padding: 18px 160px;
+    transform: translateY(0);
+    transition: transform 500ms ease, opacity 500ms ease;
+}
+.project-page-header .header-nav { color: #18465C; }
+.project-page-header .logo .logo-text { filter: none; }
+.project-page-header .burger-menu-icon img { filter: none; }
+.project-page-header .lang-sel img { filter: none; }
+.project-page-header .line { background-color: #18465C; }
+.project-page-header .header-nav li:hover img { filter: brightness(2.7) sepia(1); }
+
+.project-page-header.header-hidden {
+    transform: translateY(-100%);
+    opacity: 0;
+    pointer-events: none;
+}
+
+/* =========================================
+   PROJE SAYFASI NAVİGASYON BUTONLARI
+   ========================================= */
+.project-nav-buttons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 40px 0 60px 0;
+    border-top: 1px solid #eee;
+    margin-top: 40px;
+}
+
+.project-nav-btn {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    padding: 16px 28px;
+    background: #0D3143;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    font-family: 'Urbanist', sans-serif;
+    font-size: 0.95rem;
+    font-weight: 600;
+    text-transform: uppercase;
+    cursor: pointer;
+    text-decoration: none;
+    transition: all 300ms ease;
+}
+
+.project-nav-btn:hover {
+    background: #467D96;
+    color: #fff;
+    transform: translateX(0);
+}
+
+.project-nav-btn.prev-btn:hover {
+    transform: translateX(-5px);
+}
+
+.project-nav-btn.next-btn:hover {
+    transform: translateX(5px);
+}
+
+.project-nav-btn svg {
+    width: 20px;
+    height: 20px;
+    fill: currentColor;
+}
+
+.project-nav-btn.prev-btn svg {
+    transform: rotate(180deg);
+}
+
+.project-nav-btn.disabled {
+    opacity: 0.4;
+    pointer-events: none;
+}
+
+@media (max-width: 768px) {
+    .project-page-header {
+        padding: 12px 20px;
+    }
+    
+    .project-nav-buttons {
+        flex-direction: column;
+        gap: 16px;
+        padding: 30px 0 40px 0;
+    }
+    
+    .project-nav-btn {
+        width: 100%;
+        justify-content: center;
+        padding: 14px 20px;
+    }
+}

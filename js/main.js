@@ -2,14 +2,27 @@ $(document).ready(function () {
     // Splash fade out
     $(".splash").fadeOut("slow");
 
+    // Proje sayfası mı kontrol et
+    var isProjectPage = $(".header-main").hasClass("project-page-header");
+
     // Scroll durumuna göre header class değişimi
     $(window).on("scroll", function () {
-        if ($(window).scrollTop() > 100) {
-            $(".header-main").addClass("header-scroll");
-            $(".burger-menu-icon").addClass("burger-scroll");
+        if (isProjectPage) {
+            // Proje sayfalarında: başlangıçta görünür, scroll'da gizlenir
+            if ($(window).scrollTop() > 100) {
+                $(".header-main").addClass("header-hidden");
+            } else {
+                $(".header-main").removeClass("header-hidden");
+            }
         } else {
-            $(".header-main").removeClass("header-scroll");
-            $(".burger-menu-icon").removeClass("burger-scroll");
+            // Diğer sayfalarda: normal davranış (scroll'da görünür)
+            if ($(window).scrollTop() > 100) {
+                $(".header-main").addClass("header-scroll");
+                $(".burger-menu-icon").addClass("burger-scroll");
+            } else {
+                $(".header-main").removeClass("header-scroll");
+                $(".burger-menu-icon").removeClass("burger-scroll");
+            }
         }
         $(".header-main").removeClass("sp-header");
         $(".screen-wrap").addClass("deactivate");

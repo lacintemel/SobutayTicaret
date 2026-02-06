@@ -230,11 +230,11 @@
                 
                 <div class="slide slide-0 active">
                     <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px);">
-				<video class="proje-banner-video pc" muted autoplay playsinline webkit-playsinline loop>
+				<video class="proje-banner-video pc" muted autoplay playsinline webkit-playsinline loop preload="auto">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                     </video>
-				<video class="proje-banner-video mobile" muted autoplay playsinline webkit-playsinline loop>
+               <video class="proje-banner-video mobile" muted autoplay playsinline webkit-playsinline loop preload="auto">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                     </video>
 					</div>
@@ -398,7 +398,7 @@
             <div class="col-lg-3 col-md-6 p-xl-5">
                 <img src="images/svg/icon-1.svg" alt="">
                 <h3 class="color-l-green kalnia my-3" data-i18n="pages.home.services.architecturalWonders.title">Mimari <br> harikalar!</h3>
-                <p data-i18n="pages.home.services.architecturalWonders.description">İnşaat projeleriniz için çarpıcı ve işlevsel dış mekanlar tasarlıyoruz. Mimari estetikle işlevselliği birleştirerek, binalarınızı çevreye uyumlu ve göz alıcı bir şekilde şekillendiriyoruz.</p>
+                <p data-i18n="pages.home.services.architecturalWonders.description">İnşaat projeleriniz için çarpıcı ve işlevsel dış mekanlar tasarlıyoruz. Mimari estetikle işlevsellik birleştirerek, binalarınızı çevreye uyumlu ve göz alıcı bir şekilde şekillendiriyoruz.</p>
             </div>
             <div class="col-lg-3 col-md-6 p-xl-5">
                 <img src="images/svg/icon-2.svg" alt="">
@@ -515,6 +515,17 @@ function closeLanguage() {
             };
 
             createBullets();
+            // İlk slide açıldığında videoyu hemen başlat
+            setTimeout(function() {
+                var firstSlide = document.querySelector('.slide-0.active');
+                if (firstSlide) {
+                    var video = firstSlide.querySelector('.proje-banner-video.pc, .proje-banner-video.mobile');
+                    if (video) {
+                        video.muted = true;
+                        video.play().catch(function(){});
+                    }
+                }
+            }, 0);
 
             function manageControls() {
                 $(".slider-control").removeClass("inactive");

@@ -19,7 +19,7 @@
     },
     "pages": {
       "home": {
-        "title": "Anasayfa",
+        "title": "Anasayfa (Güncellendi)",
         "url": "index.html",
         "meta": {
           "title": "Sobutay Ticaret | Projeler | Bayiliklerimiz | İnşaat Çözümleri",
@@ -100,21 +100,21 @@
         },
         "slider": {
           "slide1": {
-            "subtitle": "Sun Hotel",
-            "title1": "Asma Tavan",
-            "title2": "otel tasarımları",
+            "subtitle": "Hesapçıoğlu Opel Showroom",
+            "title1": "Tavan ve Zemin",
+            "title2": "Tasarımları",
             "details": "Detaylar"
           },
           "slide2": {
-            "subtitle": "Xo Cape",
-            "title1": "Özel Tasarımlar",
-            "title2": "statik tasarımlar.",
+            "subtitle": "Xo Cape Arnna",
+            "title1": "Özel ve Statik Tasarımlar",
+            "title2": "Ve İmalatlar.",
             "details": "Detaylar"
           },
           "slide3": {
             "subtitle": "Liberty Hotel",
-            "title1": "İç Dekorasyon,",
-            "title2": "çelik imalat.",
+            "title1": "İç Ve Dış Mekanların Dekorasyonları,",
+            "title2": "Çelik imalatlar.",
             "details": "Detaylar"
           }
         },
@@ -127,7 +127,7 @@
         }
       },
       "about": {
-        "title": "Hakkımızda",
+        "title": "Hakkımızda (Güncellendi)",
         "url": "hakkimizda.html",
         "meta": {
           "title": "Hakkımızda | Sobutay Ticaret",
@@ -143,7 +143,7 @@
         "banner": {
           "heading1": "Uluslararası standartlar,",
           "heading2": "Sürdürülebilir uygulamalar",
-          "description": "<strong>Sobutay Ticaret</strong> olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız."
+          "description": "<strong>Sobutay Ticaret</strong> olarak inşai alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız."
         },
         "services": {
           "architecturalWonders": {
@@ -166,7 +166,7 @@
         "projectsSection": {
           "label": "PROJELERİMİZ",
           "heading": "Tüm Proje Türlerinde Uzmanlık!",
-          "description": "Liberty Hotel'den XO Cape'ye, Hesapçıoğlu Opel Showroom'dan Sun Hotel'e kadar, her projemiz en yüksek kalite standartlarında tamamlanmaktadır. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında sunduğumuz hizmetlerle sektörde öncü rol oynuyoruz.",
+          "description": "Liberty Hotel'den XO Cape Arnna'ya, Hesapçıoğlu Opel Showroom'dan Sun Hotel'e kadar, her projemiz en yüksek kalite standartlarında tamamlanmaktadır. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında sunduğumuz hizmetlerle sektörde öncü rol oynuyoruz.",
           "link": "Projelerimiz"
         },
         "founder": {
@@ -187,7 +187,7 @@
         }
       },
       "projects": {
-        "title": "Projeler",
+        "title": "Projeler (Güncellendi)",
         "url": "projeler.html",
         "meta": {
           "title": "Projelerimiz | Sobutay Ticaret",
@@ -219,7 +219,7 @@
             "location": "Kuşadası"
           },
           "xoCape": {
-            "title": "XO Cape Antalya Hotel",
+            "title": "XO Cape Arnna Fethiye Hotel",
             "location": "Fethiye"
           },
           "hesapciogluOpel": {
@@ -585,7 +585,7 @@
         }
       },
       "partners": {
-        "title": "Çözüm Ortaklarımız",
+        "title": "Çözüm Ortaklarımız (Güncellendi)",
         "url": "cozum_ortaklari.html",
         "meta": {
           "title": "Çözüm Ortaklarımız | Sobutay Ticaret",
@@ -600,7 +600,7 @@
         },
         "banner": {
           "heading": "Çözüm Ortaklarımız",
-          "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülkemizin önde gelen mimarları ve iş ortaklarıyla birlikte çalışmaktan gurur duyuyoruz. Kaliteli projelerin başında, deneyimli ve vizyoner isimler bulunmaktadır."
+          "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülkemizin önde gelen mimarları ve iş ortaklarıyla birlikte çalışmaktan gurur duyuyoruz. Kaliteli projelerin başında, deneyimli ve vizyoner isimler bulunmaktadır. TTds’nin kurucusu Peyzaj Mimarı ve Yüksek Mimar Tülay Tosun, çağdaş peyzaj mimarlığının gelişiminde önemli bir yere sahip öncü isimlerden biridir. Tülay Tosun yurtiçi ve yurtdışı sektörde birçok geniş ölçekli çevresel tasarım projesine imza atmış olup , pek çok otel , tema park, sahil düzenlemesi ve inşai alanda anahtar teslim işlere imza atıp bu projelerin yönetimini üstlendi. Doğayla uyumlu, sürdürülebilir ve mekâna değer katan tasarım yaklaşımıyla projelerine özgün çözümler sunan Tülay Tosun tasarım süreçlerini sadece çalışma saatleriyle sınırlı görmeyen, üretimini tutkuyla sürdüren bir tasarımcıdır. Engin Erdoğan, inşaat mühendisi ve statik proje uzmanı olarak birçok farklı projede görev almıştır. Özellikle parametrik çelik imalatlarının statik tasarım ve çizimlerinde uzmanlaşmıştır. Gaziantep Engelsiz Yaşam Merkezi, XO Cape Arnna bar ve lobi girişleri, Lujo Otel konferans salonu, Antalya Ulu Cami, Türk ve İslam Medeniyetleri Müzesi projelerinin statik çizim ve proje müellifliği çalışmalarını başarıyla gerçekleştirmiştir. Yenilikçi mühendislik çözümleri ve teknik hassasiyetiyle projelere güvenli ve sürdürülebilir yapısal sistemler kazandırmaktadır."
         }
       },
       "contact": {
@@ -1599,28 +1599,29 @@
         },
         "slider": {
           "slide1": {
-            "subtitle": "Sun Hotel",
-            "title1": "Подвесной потолок",
-            "title2": "дизайн отелей",
+            "subtitle": "Hesapcioglu Opel Showroom",
+            "title1": "Потолочные и напольные",
+            "title2": "дизайны",
             "details": "Подробности"
           },
           "slide2": {
-            "subtitle": "Xo Cape",
-            "title1": "Индивидуальный дизайн",
-            "title2": "статические конструкции.",
+            "subtitle": "Xo Cape Arnna",
+            "title1": "Индивидуальные и статические дизайны",
+            "title2": "и производства.",
             "details": "Подробности"
           },
           "slide3": {
             "subtitle": "Liberty Hotel",
-            "title1": "Внутренняя отделка,",
-            "title2": "производство стали.",
+            "title1": "Внутренние и внешние декорации,",
+            "title2": "Стальные производства.",
             "details": "Подробности"
           }
         },
         "projectsSection": {
           "label": "Откройте для себя проекты <strong>Sobutay Ticaret</strong>",
-          "title": "Завершенные и текущие проекты!",
-          "description": "<span class=\"bold\">Современная</span> и инновационная коллекция проектов <strong>Sobutay Ticaret</strong> вас поразит. Мы предлагаем высочайшие стандарты качества в архитектурном проектировании, производстве стали и внутренней отделке.",
+          "title1": "Завершенные и",
+          "title2": "текущие проекты!",
+          "description": "Современная и инновационная коллекция проектов <strong>Sobutay Ticaret</strong> вас поразит. Мы предлагаем высочайшие стандарты качества в архитектурном проектировании, производстве стали и внутренней отделке.",
           "moreLink": "Подробнее"
         },
         "featuredProjects": {
@@ -1705,7 +1706,7 @@
         "banner": {
           "heading1": "Международные стандарты,",
           "heading2": "Устойчивые практики",
-          "description": "Как компания <strong>Sobutay Ticaret</strong>, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше."
+          "description": "Как компания <strong>Sobutay Ticaret</strong>, с нашим опытом в строительной сфере, мы реализуем проекты, которые обогащают жизнь профессионалов в области недвижимости. Используя мощь финансовых ресурсов, полученных благодаря нашей международной работе, мы представляем вам удивительные проекты. Благодаря нашему экологичному подходу и устойчивому дизайну мы готовы поднять ваш уровень жизни еще выше."
         },
         "services": {
           "architecturalWonders": {
@@ -1781,7 +1782,7 @@
             "location": "Кушадасы"
           },
           "xoCape": {
-            "title": "XO Cape Antalya Hotel",
+            "title": "XO Cape Arnna Fethiye Hotel",
             "location": "Фетхие"
           },
           "hesapciogluOpel": {
@@ -2334,7 +2335,7 @@
         },
         "banner": {
           "heading": "Партнеры",
-          "description": "Как семья <strong>Sobutay Ticaret</strong>, мы гордимся работой с ведущими архитекторами и деловыми партнерами нашей страны. Опытные и дальновидные имена стоят во главе качественных проектов."
+          "description": "Как семья <strong>Sobutay Ticaret</strong>, мы гордимся работой с ведущими архитекторами и деловыми партнерами нашей страны. В авангарде качественных проектов стоят опытные и дальновидные имена. Основатель TTds, ландшафтный архитектор и главный архитектор Тюлай Тосун, является одним из пионеров, занимающих значимое место в развитии современной ландшафтной архитектуры. Тюлай Тосун реализовала множество крупномасштабных проектов по экологическому дизайну как в стране, так и за рубежом, а также руководила многими гостиничными, тематическими парками, прибрежными проектами и проектами под ключ. Благодаря своему подходу к дизайну, который совместим с природой, устойчив и добавляет ценность пространству, Тюлай Тосун предлагает уникальные решения для своих проектов и является дизайнером, который не ограничивает свои процессы проектирования рабочим временем, продолжая творить с энтузиазмом. Энгин Эрдоган, как инженер-строитель и специалист по статическим проектам, работал над многими различными проектами. Особенно он специализируется на статическом проектировании и черчении параметрических стальных конструкций. Он успешно выполнил статическое проектирование и авторский надзор таких проектов, как Центр безбарьерной жизни в Газиантепе, бар и входы в лобби XO Cape Arnna, конференц-зал отеля Lujo, мечеть Анталии Улу, Музей турецкой и исламской цивилизации. Благодаря своим инновационным инженерным решениям и технической точности он обеспечивает проекты безопасными и устойчивыми конструктивными системами."
         }
       },
       "contact": {

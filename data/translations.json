@@ -19,7 +19,7 @@
     },
     "pages": {
       "home": {
-        "title": "Anasayfa (Güncellendi)",
+        "title": "Anasayfa",
         "url": "index.html",
         "meta": {
           "title": "Sobutay Ticaret | Projeler | Bayiliklerimiz | İnşaat Çözümleri",
@@ -95,7 +95,7 @@
         "banner": {
           "dreamsTrust": "Hayalleriniz",
           "trustUs": "bize emanet.",
-          "description": "<strong>Sobutay Ticaret</strong>, yenilikçi inşaat ve mimarlık projeleriyle tanınan köklü bir firmadır. Yılların deneyimi ve uzman ekibiyle birlikte, müşterilerine üstün kalite, yaratıcı tasarım ve mükemmeliyetçilik anlayışıyla hizmet vermektedir. <strong>Sobutay Ticaret</strong> olarak gayrimenkul alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Mimari tasarım, çelik imalat, asma tavan sistemleri ve iç dekorasyon alanlarında yetkinlik göstererek, projelerimizi en yüksek standartlarda tamamlıyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız.",
+          "description": "<strong>Sobutay Ticaret</strong>, yenilikçi inşaat ve mimarlık projeleriyle tanınan köklü bir firmadır. Yılların deneyimi ve uzman ekibiyle birlikte, müşterilerine üstün kalite, yaratıcı tasarım ve mükemmeliyetçilik anlayışıyla hizmet vermektedir. <strong>Sobutay Ticaret</strong> olarak inşaat ve dekorasyon alanındaki uzmanlığımızla hayata zenginlik katan projeleri hayata geçiriyoruz. Mimari tasarım, çelik imalat, asma tavan sistemleri ve iç dekorasyon alanlarında yetkinlik göstererek, projelerimizi en yüksek standartlarda tamamlıyoruz. Uluslararası çalışmalarımızdan edindiğimiz finansal kaynakların gücüyle sizi hayranlık uyandıran projelerle buluşturuyoruz. Çevreci yaklaşımımız ve sürdürülebilir tasarımlarımızla hayat standartlarınızı daha da yükseltmeye hazırız.",
           "moreLink": "Daha Fazlası"
         },
         "slider": {
@@ -106,9 +106,9 @@
             "details": "Detaylar"
           },
           "slide2": {
-            "subtitle": "Xo Cape Arnna",
-            "title1": "Özel ve Statik Tasarımlar",
-            "title2": "Ve İmalatlar.",
+            "subtitle": "XO Cape Arnna",
+            "title1": "Özel Tasarımlar ",
+            "title2": "ve  İmalatlar.",
             "details": "Detaylar"
           },
           "slide3": {
@@ -545,7 +545,7 @@
         }
       },
       "dealers": {
-        "title": "Bayiliklerimiz",
+        "title": "Bayiliklerimiz (Güncellendi)",
         "url": "bayiliklerimiz.html",
         "meta": {
           "title": "Bayiliklerimiz | Sobutay Ticaret",
@@ -563,13 +563,13 @@
           "description": "<strong>Sobutay Ticaret</strong> ailesi olarak, ülke genelinde ve uluslararası pazarlarda güçlü bir bayilik ağına sahip bulunmaktayız. Değerli iş ortaklarımız ve bayilerimizle birlikte, yüksek kaliteli ürün ve hizmetleri müşterilerimize ulaştırmakta kararlıyız."
         },
         "cards": {
-          "bostik": "Yapı malzemeleri sektöründe lider konumdaki güvenilir ortağımız.",
+          "bostik": "Yapı kimyasalları sektöründe lider konumdaki güvenilir ortağımız.",
           "gerflor": "Döşeme ve kaplama çözümlerinde öncü ve kaliteli ürünler sunmaktadır.",
           "kayaPanel": "Panel ve aksesuarlarında yenilikçi ve güvenilir çözümler sağlamaktadır.",
           "tarkett": "Döşeme ve dekorasyon sektöründe global anlamda tanınmış markadır.",
           "aspen": "Kaliteli yapı ürünleri ve malzemelerin sağlayıcısıdır.",
           "dendro": "Ahşap ve dekoratif ürünlerde uzmanlaşmış güvenilir tedarikçi.",
-          "splash": "Banyo ve döşeme çözümlerinde yüksek kaliteli ürünler sunmaktadır.",
+          "splash": "Zemin ve duvar kaplama çözümlerinde yenilikçi ve kaliteli ürünler sunan AYK markasıdır.",
           "verox": "Döşeme malzemeleri alanında yenilikçi ve kaliteli ürünler üretir.",
           "trio": "Kaliteli ürün ve hizmetlerinin sağlayıcısı olarak <strong>Sobutay Ticaret</strong> ailesi içinde yer almaktadır."
         },
@@ -662,7 +662,7 @@
     },
     "pages": {
       "home": {
-        "title": "Home",
+        "title": "Home (Updated)",
         "url": "en/index.html",
         "meta": {
           "title": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88 | Home",
@@ -1401,7 +1401,7 @@
         }
       },
       "dealers": {
-        "title": "Dealers",
+        "title": "Dealers (Updated)",
         "url": "en/dealers.html",
         "meta": {
           "title": "Our Dealers | Sobutay Ticaret",
@@ -1518,7 +1518,7 @@
     },
     "pages": {
       "home": {
-        "title": "Главная",
+        "title": "Главная (Обновлено)",
         "url": "ru/index.html",
         "meta": {
           "title": "<strong>Sobutay Ticaret</strong> ® | +90 532 588 90 88 | Главная",
@@ -2280,7 +2280,7 @@
         }
       },
       "dealers": {
-        "title": "Дилеры",
+        "title": "Дилеры (Обновлено)",
         "url": "ru/dealers.html",
         "meta": {
           "title": "Наши дилеры | Sobutay Ticaret",

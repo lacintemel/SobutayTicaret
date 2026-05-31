@@ -229,12 +229,12 @@
             <div class="slider" style="transform: translate3d(0%, 0px, 0px);">
                 
                 <div class="slide slide-0 active">
-                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px);">
-				<video class="proje-banner-video pc" muted autoplay playsinline webkit-playsinline loop preload="auto">
+                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px); background-image: url('images/hesapcioglu/img_3963.jpg');">
+				<video class="proje-banner-video pc" muted autoplay playsinline webkit-playsinline loop preload="auto" poster="images/hesapcioglu/img_3963.jpg">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                     </video>
-               <video class="proje-banner-video mobile" muted autoplay playsinline webkit-playsinline loop preload="auto">
+               <video class="proje-banner-video mobile" muted autoplay playsinline webkit-playsinline loop preload="auto" poster="images/hesapcioglu/img_3963.jpg">
                         <source src="video/hesapcioglu1.mov" type="video/mp4">
                     </video>
 					</div>
@@ -245,9 +245,9 @@
                 </div>
                 
                 <div class="slide slide-1">
-                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px);">
-				<video class="proje-banner-video pc" src="video/xocape.mov" muted autoplay playsinline webkit-playsinline loop></video>
-					<video class="proje-banner-video mobile" src="video/xocape.mov" muted autoplay playsinline webkit-playsinline loop></video>
+                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px); background-image: url('images/xocarpe/yka_xo-cape-arnna_web_80.jpg');">
+				<video class="proje-banner-video pc" src="video/xocape.mov" muted autoplay playsinline webkit-playsinline loop poster="images/xocarpe/yka_xo-cape-arnna_web_80.jpg"></video>
+					<video class="proje-banner-video mobile" src="video/xocape.mov" muted autoplay playsinline webkit-playsinline loop poster="images/xocarpe/yka_xo-cape-arnna_web_80.jpg"></video>
 					</div>
                     <h3 data-i18n="pages.home.slider.slide2.subtitle">Xo Cape Arnna</h3>
                     <h1 data-i18n="pages.home.slider.slide2.title1">Özel Tasarımlar</h1>
@@ -256,9 +256,9 @@
                     
                 </div>
                 <div class="slide slide-2">
-                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px);">
-				<video class="proje-banner-video pc" src="video/liberty_video.mov" muted autoplay playsinline webkit-playsinline loop></video>
-					<video class="proje-banner-video mobile" src="video/liberty_video.mov" muted autoplay playsinline webkit-playsinline loop></video>
+                    <div class="slide__bg" style="transform: translate3d(0%, 0px, 0px); background-image: url('images/liberty/img_4495.jpg');">
+				<video class="proje-banner-video pc" src="video/liberty_video.mov" muted autoplay playsinline webkit-playsinline loop poster="images/liberty/img_4495.jpg"></video>
+					<video class="proje-banner-video mobile" src="video/liberty_video.mov" muted autoplay playsinline webkit-playsinline loop poster="images/liberty/img_4495.jpg"></video>
 					</div>
                     <h3 data-i18n="pages.home.slider.slide3.subtitle">Liberty Hotel</h3>
                     <h1 data-i18n="pages.home.slider.slide3.title1">İç Ve Dış Mekanların Dekorasyonları,</h1>
@@ -293,8 +293,8 @@
             </div>
             <div class="col-md-7 padding-x d-flex flex-column justify-content-center bg-green py-md-0 py-3">
                 <h5 class="text-white" data-i18n="pages.home.projectsSection.label"><strong>Sobutay Ticaret</strong> Projelerimizi Keşfedin</h5>
-                <h2 class="kalnia color-l-gold my-4" data-i18n="pages.home.projectsSection.title">Tamamlanmış ve<br>
-                    devam eden projeler!</h2>
+                <h2 class="kalnia color-l-gold my-4" data-i18n="pages.home.projectsSection.title">Tamamlanan<br>
+                    projeler!</h2>
                 <h5 class="text-white mb-5" data-i18n="pages.home.projectsSection.description"><strong>Sobutay Ticaret'in</strong> modern ve yenilikçi proje koleksiyonu sizi hayranlık uyandıracak. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında en yüksek kalite standartlarını sunuyoruz.</h5>
                 <a href="projeler.html" class="normal-link-2" data-i18n="pages.home.projectsSection.moreLink">Daha Fazlası</a>
             </div>
@@ -515,6 +515,11 @@ function closeLanguage() {
             };
 
             createBullets();
+            document.querySelectorAll('.proje-banner-video').forEach(function(video) {
+                video.addEventListener('error', function() {
+                    video.style.display = 'none';
+                }, true);
+            });
             // İlk slide açıldığında videoyu hemen başlat
             setTimeout(function() {
                 var firstSlide = document.querySelector('.slide-0.active');

@@ -120,8 +120,8 @@
         },
         "projectsSection": {
           "label": "<strong>Sobutay Ticaret</strong> Projelerimizi Keşfedin",
-          "title1": "Tamamlanmış ve",
-          "title2": "devam eden projeler!",
+          "title1": "Tamamlanan",
+          "title2": "projeler!",
           "description": "<strong>Sobutay Ticaret'in</strong> modern ve yenilikçi proje koleksiyonu sizi hayranlık uyandıracak. Mimari tasarım, çelik imalat ve iç dekorasyon alanlarında en yüksek kalite standartlarını sunuyoruz.",
           "moreLink": "Daha Fazlası"
         }
@@ -763,7 +763,7 @@
         },
         "projectsSection": {
           "label": "Discover <strong>Sobutay Ticaret</strong> Projects",
-          "title": "Completed and ongoing projects!",
+          "title": "Completed projects!",
           "description": "<strong>Sobutay Ticaret's</span> modern and innovative project collection will amaze you. We offer the highest quality standards in architectural design, steel manufacturing and interior decoration.",
           "moreLink": "Learn More"
         },
@@ -1619,8 +1619,8 @@
         },
         "projectsSection": {
           "label": "Откройте для себя проекты <strong>Sobutay Ticaret</strong>",
-          "title1": "Завершенные и",
-          "title2": "текущие проекты!",
+          "title1": "Завершенные",
+          "title2": "проекты!",
           "description": "Современная и инновационная коллекция проектов <strong>Sobutay Ticaret</strong> вас поразит. Мы предлагаем высочайшие стандарты качества в архитектурном проектировании, производстве стали и внутренней отделке.",
           "moreLink": "Подробнее"
         },

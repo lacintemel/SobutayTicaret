@@ -951,7 +951,7 @@ input:checked+.check-slider:before {
 }
 
 /* .ilet-map-box{
-    background-image: url(../images/map.png);
+    background-image: none;
     background-size: cover;
     background-position: center;
     height: 320px;

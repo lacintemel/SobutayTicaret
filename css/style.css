@@ -185,7 +185,7 @@ h6 {
     transition: all 500ms ease;
 }
 .header-main .logo{display: flex;flex-direction: row;align-items: center;gap: 16px;}
-.logo .logo-icon{height:  60px;}
+.logo .logo-icon{height:  60px;transform: scale(1.25);transform-origin: left center;}
 .logo .logo-text{height: 40px   ;filter: invert(1) brightness(5);transform: translateY(-10px);transition: all 500ms ease;}
 .header-main .header-nav{
     display: flex;
